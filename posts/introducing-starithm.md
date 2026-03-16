@@ -57,7 +57,7 @@ If you reference Starithm in your research, please cite:
   title     = {Introducing Starithm: Real-Time Multi-Messenger Astronomy, Automated},
   author    = {{Starithm Platform}},
   year      = {2026},
-  url       = {https://starithm.com/blog/posts/introducing-starithm},
+  url       = {https://starithm.ai/blog/posts/introducing-starithm},
   note      = {Starithm platform introduction and methodology overview}
 }
 ```
