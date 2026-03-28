@@ -19,7 +19,7 @@ const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 const REPO_ROOT = path.resolve(__dirname, '..');
 const POSTS_DIR = path.join(REPO_ROOT, 'posts');
 const PROCESSED_FILE = path.join(REPO_ROOT, 'scripts', 'processed-events.json');
-const SITE_BASE = 'https://starithm.com';
+const SITE_BASE = 'https://starithm.ai';
 
 // Minimum activity to be worth a blog post
 const MIN_NOTICES = 3;
@@ -129,6 +129,12 @@ function buildCiteBlock(
   const key = `starithm${year}${canonicalId.toLowerCase().replace(/[^a-z0-9]/g, '')}`;
   return `---
 
+## Live Event Page
+
+Track this event in real time on Starithm: [${canonicalId} — Live Event Page](${SITE_BASE}/novatrace/events/${canonicalId})
+
+---
+
 ## Cite This Post
 
 If you reference this event report in your research, please cite:
@@ -188,13 +194,22 @@ async function fetchNotices(pg: Client, canonicalId: string): Promise<NoticeRow[
 }
 
 async function fetchCirculars(pg: Client, canonicalId: string): Promise<CircularRow[]> {
+  // Get the alert keys from event_summaries.source_ids->'circularIds'
+  const keysRes = await pg.query<{ alert_key: string }>(`
+    SELECT jsonb_array_elements_text(source_ids->'circularIds') AS alert_key
+    FROM event_summaries
+    WHERE canonical_id = $1
+  `, [canonicalId]);
+
+  if (keysRes.rows.length === 0) return [];
+
+  const alertKeys = keysRes.rows.map(r => r.alert_key);
   const res = await pg.query<CircularRow>(`
     SELECT event, summary, date::text
     FROM alerts
-    WHERE event ILIKE $1
+    WHERE alert_key = ANY($1)
     ORDER BY date ASC
-    LIMIT 40
-  `, [`%${canonicalId}%`]);
+  `, [alertKeys]);
   return res.rows;
 }
 
@@ -352,7 +367,7 @@ async function main() {
 
       const body = await generateFullPost(event, notices, circulars);
       const slug = `event-${slugify(event.canonical_id)}`;
-      const date = new Date(event.generated_at).toISOString().slice(0, 10);
+      const date = today;
       const category = detectCategory(notices[0]?.alert_kind || '');
       const significance = event.significance.charAt(0).toUpperCase() + event.significance.slice(1);
 
