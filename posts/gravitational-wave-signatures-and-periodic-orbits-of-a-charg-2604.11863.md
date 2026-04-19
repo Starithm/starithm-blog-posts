@@ -20,7 +20,7 @@ The researchers examined test particles orbiting a magnetically charged black ho
 
 Their central finding is that **dark matter parameters—specifically the halo density and scale radius—enlarge the allowed region for stable orbits and shift characteristic radii and angular momenta toward larger values**. In contrast, the magnetic charge on the black hole *partially counterbalances* this effect, pushing orbits inward. This competition between dark matter's expanding influence and magnetic charge's contracting effect creates a more complex orbital landscape than either component alone would produce.
 
-![Effective potential landscape showing how dark matter halo density and magnetic charge jointly influence orbital stability boundaries](https://arxiv.org/html/2604.11863/2604.11863v1/x2.png)
+![Effective potential landscape showing how dark matter halo density and magnetic charge jointly influence orbital stability boundaries](https://arxiv.org/html/2604.11863v1/x2.png)
 
 The team then constructed periodic orbits—trajectories that repeat after some number of radial and azimuthal cycles—characterized by rational frequency ratios. They mapped out "zoom-whirl" configurations, where particles alternate between rapid motion near the black hole and slower motion at larger distances, along with their precessing counterparts. These periodic orbits serve as templates for understanding more general motion in these systems.
 
