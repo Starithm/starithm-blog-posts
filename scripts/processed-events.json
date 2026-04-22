@@ -107,6 +107,12 @@
       "noticeCount": 1,
       "circularCount": 7,
       "lastUpdated": "2026-04-21"
+    },
+    "IceCube-260217A": {
+      "slug": "event-icecube-260217a",
+      "noticeCount": 4,
+      "circularCount": 4,
+      "lastUpdated": "2026-04-22"
     }
   }
 }
