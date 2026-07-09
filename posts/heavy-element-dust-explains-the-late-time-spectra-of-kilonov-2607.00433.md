@@ -20,7 +20,7 @@ The authors investigated infrared observations from two well-studied kilonovae: 
 
 The team's key insight was that kilonova ejecta provide favorable conditions for dust grain formation from refractory r-process elements including zirconium, tungsten, and osmium. Using kinetic formation models with reaction rate coefficients calibrated to tungsten, they found that dust forms *efficiently, particularly in slower-moving ejecta*. This represents a departure from previous work relying on classical nucleation theory, which predicted less efficient dust formation.
 
-![Dust formation efficiency in kilonova ejecta as a function of expansion velocity and ejecta mass](https://arxiv.org/html/2607.00433/2607.00433v1/dust_formation.png)
+![Dust formation efficiency in kilonova ejecta as a function of expansion velocity and ejecta mass](https://arxiv.org/html/2607.00433v1/dust_formation.png)
 
 Through radiative transfer simulations incorporating dust formation, the authors demonstrated that r-process dust naturally reproduces the observed late-time infrared emission. The dust acts as an efficient infrared emitter, accounting for the cool, extended emission seen in observations.
 
