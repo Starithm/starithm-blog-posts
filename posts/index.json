@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fermi GBM detects a gamma-ray burst (GRB) with high significance",
+    "date": "2026-07-09",
+    "category": "GRB",
+    "excerpt": "On the morning of July 4, 2026, the Fermi Gamma-ray Burst Monitor (GBM) detected a high-significance gamma-ray burst that set off alarms across the global transient astronomy network.",
+    "event_id": "804847014",
+    "significance": "High",
+    "notice_count": "6",
+    "circular_count": "0",
+    "read_time": "3 min read",
+    "slug": "event-804847014"
+  },
+  {
     "title": "Heavy element dust explains the late-time spectra of kilonovae",
     "date": "2026-07-09",
     "category": "GRB",
@@ -881,7 +893,7 @@
     "event_id": "GBM_794811435",
     "significance": "High",
     "notice_count": "7",
-    "circular_count": "28",
+    "circular_count": "58",
     "read_time": "3 min read",
     "slug": "event-gbm-794811435"
   },
