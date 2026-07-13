@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fermi GBM detects GRB 260212A with multiple pulses and significant fluence",
+    "date": "2026-07-13",
+    "category": "GRB",
+    "excerpt": "On February 12, 2026, at **17:49 UTC**, the Fermi Gamma-ray Burst Monitor detected a powerful gamma-ray burst that would soon become a textbook example of multi-messenger astronomy in action.",
+    "event_id": "GBM_792611353",
+    "significance": "High",
+    "notice_count": "4",
+    "circular_count": "9",
+    "read_time": "3 min read",
+    "slug": "event-gbm-792611353"
+  },
+  {
     "title": "Prospect for Detection of Strongly Lensed Multi-messenger Signals of Binary Neutron Star Mergers",
     "date": "2026-07-13",
     "category": "GRB",
