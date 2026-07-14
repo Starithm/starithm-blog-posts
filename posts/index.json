@@ -1,5 +1,50 @@
 [
   {
+    "title": "A Self-Consistent Framework for Synchrotron Equipartition Analysis",
+    "date": "2026-07-14",
+    "category": "Tidal Disruption Events",
+    "excerpt": "When astronomers observe synchrotron radiation from cosmic explosions and jets, they face a fundamental challenge: the observations alone don't direct...",
+    "arxiv_id": "2607.06770",
+    "arxiv_url": "https://arxiv.org/abs/2607.06770v1",
+    "authors": "Coleman Rohde, Tanmoy Laskar, Noah Franz et al.",
+    "read_time": "3 min read",
+    "slug": "a-self-consistent-framework-for-synchrotron-equipartition-an-2607.06770"
+  },
+  {
+    "title": "GRB 260706A detected by SVOM and Fermi-GBM with detailed follow-up observations",
+    "date": "2026-07-14",
+    "category": "GRB",
+    "excerpt": "On July 6, 2026, at 16:12 UTC, the gamma-ray sky lit up with a burst energetic enough to trigger alerts across multiple space observatories simultaneously.",
+    "event_id": "sb26070606",
+    "significance": "High",
+    "notice_count": "3",
+    "circular_count": "11",
+    "read_time": "3 min read",
+    "slug": "event-sb26070606"
+  },
+  {
+    "title": "Fast Radio Bursts Trace Cosmic Star Formation with Little Delay",
+    "date": "2026-07-14",
+    "category": "Fast Radio Bursts",
+    "excerpt": "Fast radio bursts have puzzled astronomers since their discovery in 2007. These millisecond-long flashes of radio energy arrive from across the univer...",
+    "arxiv_id": "2607.09109",
+    "arxiv_url": "https://arxiv.org/abs/2607.09109v1",
+    "authors": "Yi-Ying Wang, Yin-Jie Li, Yi-Zhong Fan",
+    "read_time": "3 min read",
+    "slug": "fast-radio-bursts-trace-cosmic-star-formation-with-little-de-2607.09109"
+  },
+  {
+    "title": "SACRA-K: A Performance-Portable Numerical Relativity Code with Kokkos",
+    "date": "2026-07-14",
+    "category": "Gravitational Waves",
+    "excerpt": "Numerical relativity simulations are essential for interpreting gravitational-wave observations from compact object mergers, but they demand enormous computational resources.",
+    "arxiv_id": "2607.08743",
+    "arxiv_url": "https://arxiv.org/abs/2607.08743v1",
+    "authors": "Ming-Zhe Han, Kenta Kiuchi, Masaru Shibata",
+    "read_time": "3 min read",
+    "slug": "sacra-k-a-performance-portable-numerical-relativity-code-wit-2607.08743"
+  },
+  {
     "title": "Fermi GBM detects GRB 260212A with multiple pulses and significant fluence",
     "date": "2026-07-13",
     "category": "GRB",
