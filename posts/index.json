@@ -11,6 +11,18 @@
     "slug": "a-self-consistent-framework-for-synchrotron-equipartition-an-2607.06770"
   },
   {
+    "title": "Fermi GBM detects a gamma-ray burst with unreliable localization.",
+    "date": "2026-07-14",
+    "category": "GRB",
+    "excerpt": "On July 4, 2026, at **10:17:27 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) triggered on a transient event with a significance of **4.",
+    "event_id": "804853052",
+    "significance": "Medium",
+    "notice_count": "6",
+    "circular_count": "0",
+    "read_time": "3 min read",
+    "slug": "event-804853052"
+  },
+  {
     "title": "GRB 260706A detected by SVOM and Fermi-GBM with detailed follow-up observations",
     "date": "2026-07-14",
     "category": "GRB",
