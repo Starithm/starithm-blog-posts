@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extending the infrastructure of the BAM code towards resistive general-relativistic magnetohydrodynamics: tests and first applications",
+    "date": "2026-07-19",
+    "category": "GRB",
+    "excerpt": "Neutron star mergers and pulsars represent some of the universe's most extreme laboratories, where magnetic fields reach strengths that dwarf anything we can create on Earth.",
+    "arxiv_id": "2607.11670",
+    "arxiv_url": "https://arxiv.org/abs/2607.11670v1",
+    "authors": "Matthew Beaudoin, Maximilano Ujevic, Ramon Jaeger et al.",
+    "read_time": "3 min read",
+    "slug": "extending-the-infrastructure-of-the-bam-code-towards-resisti-2607.11670"
+  },
+  {
     "title": "A Self-Consistent Framework for Synchrotron Equipartition Analysis",
     "date": "2026-07-14",
     "category": "Tidal Disruption Events",

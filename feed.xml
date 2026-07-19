@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Extending the infrastructure of the BAM code towards resistive general-relativistic magnetohydrodynamics: tests and first applications]]></title>
+      <link>https://starithm.ai/blog/posts/extending-the-infrastructure-of-the-bam-code-towards-resisti-2607.11670</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/extending-the-infrastructure-of-the-bam-code-towards-resisti-2607.11670</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Neutron star mergers and pulsars represent some of the universe's most extreme laboratories, where magnetic fields reach strengths that dwarf anything we can create on Earth.]]></description>
+      <category><![CDATA[GRB]]></category>
+      <source url="https://arxiv.org/abs/2607.11670v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[A Self-Consistent Framework for Synchrotron Equipartition Analysis]]></title>
       <link>https://starithm.ai/blog/posts/a-self-consistent-framework-for-synchrotron-equipartition-an-2607.06770</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/a-self-consistent-framework-for-synchrotron-equipartition-an-2607.06770</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[On March 13, 2026, the Fermi Gamma-ray Burst Monitor (GBM) detected a long gamma-ray burst that would set off a cascade of alerts, corrections, and follow-up observations across the global astronomy network.]]></description>
       <category><![CDATA[GRB]]></category>
       
-    </item>
-    <item>
-      <title><![CDATA[Testing cosmological isotropy with gravitational waves and gamma-ray bursts]]></title>
-      <link>https://starithm.ai/blog/posts/testing-cosmological-isotropy-with-gravitational-waves-and-g-2604.17746</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/testing-cosmological-isotropy-with-gravitational-waves-and-g-2604.17746</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[One of the deepest assumptions in modern cosmology is that the Universe looks roughly the same in all directions when viewed on sufficiently large scales—a principle known as isotropy.]]></description>
-      <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2604.17746v1">arXiv</source>
     </item>
   </channel>
 </rss>
