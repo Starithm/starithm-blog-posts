@@ -3,14 +3,19 @@
   <channel>
     <title>Starithm Blog</title>
     <link>https://starithm.ai/blog</link>
-    <description>Real-time astronomy research summaries — gamma-ray bursts, gravitational waves, X-ray transients, fast radio bursts, and multi-messenger astronomy.</description>
+    <description>Multi-messenger astronomy research, GCN alerts, and transient event analysis from Starithm.</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2026 08:44:43 GMT</lastBuildDate>
     <atom:link href="https://starithm.ai/feed.xml" rel="self" type="application/rss+xml"/>
-    <image>
-      <url>https://starithm.ai/logo_without_name.png</url>
-      <title>Starithm Blog</title>
-      <link>https://starithm.ai/blog</link>
-    </image>
+    
+    <item>
+      <title><![CDATA[Fermi GBM detects long GRB 260708A with significant X-ray and optical counterparts]]></title>
+      <link>https://starithm.ai/blog/posts/event-805198281</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-805198281</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[On July 8, 2026, the Fermi Gamma-ray Burst Monitor caught something spectacular—a bright, energetic long gamma-ray burst that would trigger a coordinated global response.]]></description>
+      <category><![CDATA[GRB]]></category>
+    </item>
     <item>
       <title><![CDATA[Extending the infrastructure of the BAM code towards resistive general-relativistic magnetohydrodynamics: tests and first applications]]></title>
       <link>https://starithm.ai/blog/posts/extending-the-infrastructure-of-the-bam-code-towards-resisti-2607.11670</link>
@@ -18,7 +23,6 @@
       <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Neutron star mergers and pulsars represent some of the universe's most extreme laboratories, where magnetic fields reach strengths that dwarf anything we can create on Earth.]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2607.11670v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[A Self-Consistent Framework for Synchrotron Equipartition Analysis]]></title>
@@ -27,7 +31,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[When astronomers observe synchrotron radiation from cosmic explosions and jets, they face a fundamental challenge: the observations alone don't direct...]]></description>
       <category><![CDATA[Tidal Disruption Events]]></category>
-      <source url="https://arxiv.org/abs/2607.06770v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects a gamma-ray burst with unreliable localization.]]></title>
@@ -36,7 +39,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On July 4, 2026, at **10:17:27 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) triggered on a transient event with a significance of **4.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[GRB 260706A detected by SVOM and Fermi-GBM with detailed follow-up observations]]></title>
@@ -45,7 +47,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On July 6, 2026, at 16:12 UTC, the gamma-ray sky lit up with a burst energetic enough to trigger alerts across multiple space observatories simultaneously.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Fast Radio Bursts Trace Cosmic Star Formation with Little Delay]]></title>
@@ -54,7 +55,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Fast radio bursts have puzzled astronomers since their discovery in 2007. These millisecond-long flashes of radio energy arrive from across the univer...]]></description>
       <category><![CDATA[Fast Radio Bursts]]></category>
-      <source url="https://arxiv.org/abs/2607.09109v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[SACRA-K: A Performance-Portable Numerical Relativity Code with Kokkos]]></title>
@@ -63,7 +63,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Numerical relativity simulations are essential for interpreting gravitational-wave observations from compact object mergers, but they demand enormous computational resources.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2607.08743v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects GRB 260212A with multiple pulses and significant fluence]]></title>
@@ -72,7 +71,6 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 12, 2026, at **17:49 UTC**, the Fermi Gamma-ray Burst Monitor detected a powerful gamma-ray burst that would soon become a textbook example of multi-messenger astronomy in action.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Prospect for Detection of Strongly Lensed Multi-messenger Signals of Binary Neutron Star Mergers]]></title>
@@ -81,7 +79,6 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[As gravitational wave astronomy matures, the next frontier lies in catching the rare events where multiple cosmic messengers align—gravitational waves...]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2607.07120v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects a gamma-ray burst (GRB) with high significance]]></title>
@@ -90,7 +87,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On the morning of July 4, 2026, the Fermi Gamma-ray Burst Monitor (GBM) detected a high-significance gamma-ray burst that set off alarms across the global transient astronomy network.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Heavy element dust explains the late-time spectra of kilonovae]]></title>
@@ -99,7 +95,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Neutron star mergers produce some of the universe's most extreme environments, forging the heaviest elements through rapid neutron capture and bathing the surrounding space in intense radiation.]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2607.00433v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity]]></title>
@@ -108,7 +103,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The detection of gravitational waves from merging neutron stars remains one of astronomy's most transformative achievements, yet searching for these s...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2607.01372v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Gamma-ray Bursts and Kilonovae from Gravitational Wave Events]]></title>
@@ -117,7 +111,6 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The 2015 detection of gravitational waves from merging black holes marked a watershed moment in astronomy, but it was the 2017 observation of GW170817...]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2606.27037v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[EP-WXT trigger 01709258631 identified as a likely stellar flare.]]></title>
@@ -126,7 +119,6 @@
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 25, 2026, at 03:33 UTC, the Einstein Probe's Wide-field X-ray Telescope (EP-WXT) detected a sudden surge of X-rays from a patch of sky in the constellation Leo.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[The Lazuli Space Observatory: Opportunities for time-domain and multi-messenger astronomy]]></title>
@@ -135,7 +127,6 @@
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The rapid follow-up of transient astronomical events—from gravitational wave sources to exploding stars—has become central to modern astrophysics, yet a critical observational gap remains.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2606.17136v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with moderate significance]]></title>
@@ -144,7 +135,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 14, 2026, at **10:25:14 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) caught something remarkable: a gamma-ray burst (GRB) crossing the cosmos and arriving at Earth's doorstep.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Twisted-pair unilateral reconnection: A unifying driver for magnetically powered astrophysical bursts]]></title>
@@ -153,7 +143,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Magnetic reconnection—the sudden rearrangement of magnetic field lines that releases enormous energy—has long been suspected as the engine behind some...]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2606.13953v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo]]></title>
@@ -162,7 +151,6 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The search for cosmic events that produce both gravitational waves and high-energy neutrinos represents one of the most ambitious goals in modern multi-messenger astronomy.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2601.07595v3">arXiv</source>
     </item>
     <item>
       <title><![CDATA[EP-WXT trigger 01709258455 likely indicates a stellar flare from RX J0920.0+3052.]]></title>
@@ -171,7 +159,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On the evening of February 17, 2026, the Einstein Probe's Wide-field X-ray Telescope detected a sudden burst of X-ray emission from a seemingly unremarkable patch of sky.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Radio precursors of monster shocks: a mechanism for fast radio bursts from SGR 1935+2154]]></title>
@@ -180,7 +167,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[In December 2020, the magnetar SGR 1935+2154 produced a remarkable burst of radio emission—a fast radio burst (FRB) detected at gigahertz frequencies,...]]></description>
       <category><![CDATA[Fast Radio Bursts]]></category>
-      <source url="https://arxiv.org/abs/2606.10189v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Core-collapse supernovae and supernova neutrinos]]></title>
@@ -189,7 +175,6 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Core-collapse supernovae represent some of the most energetic and complex events in the universe, yet the precise mechanism driving their explosions remains incompletely understood.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.25879v2">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with moderate significance]]></title>
@@ -198,7 +183,6 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 26, 2026, at **08:06:14.58 UTC**, the Fermi Gamma-ray Burst Monitor detected a flash of high-energy radiation from somewhere beyond our galaxy.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Gravitational wave detectability range informed by external messengers]]></title>
@@ -207,7 +191,6 @@
       <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[When a gamma-ray burst flares across the sky, astronomers face a critical question: could this transient be accompanied by gravitational waves?]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2605.21578v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB 01709258519 detected by Einstein Probe WXT likely originates from Mrk 421; no optical transient found.]]></title>
@@ -216,7 +199,6 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 21, 2026, the Einstein Probe's Wide-field X-ray Telescope (WXT) caught something interesting—a gamma-ray burst that looked unremarkable at first glance, but turned out to point directly at one of the sky's most notorious active galaxies.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Assessing the Relative Importance of Neutrino Matter Interaction Channels in Post-Merger Remnant of Binary Neutron Stars]]></title>
@@ -225,7 +207,6 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[When two neutron stars collide, they create one of the universe's most violent laboratories—a crucible where extreme physics unfolds in milliseconds.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.29187v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with medium significance]]></title>
@@ -234,7 +215,6 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On the evening of March 4, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden surge of high-energy photons from the northern celestial hemisphere.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Stellar flare detected from LP 435-538 associated with EP-WXT trigger 01709258652]]></title>
@@ -243,7 +223,6 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 26, 2026, the Einstein Probe's Wide-field X-ray Telescope (EP-WXT) detected an unexpected burst of X-ray radiation from a seemingly ordinary star in the northern sky.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Fermi GBM trigger 795185313 was initially misclassified as a GRB but later determined to be an accidental trigger.]]></title>
@@ -252,7 +231,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 14, 2026, Starithm's real-time monitoring system detected an automated alert from NASA's Fermi Gamma-ray Burst Monitor—a trigger that briefly promised another gamma-ray burst discovery.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with varying significance levels]]></title>
@@ -261,7 +239,6 @@
       <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 16, 2026, at **12:12:01.40 UTC**, Starithm's monitoring systems detected an alert from NASA's Fermi Gamma-ray Burst Monitor—a distant gamma-ray burst (GRB) flashing across the cosmos.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Gravitational Wave Propagation through Viscous Matter]]></title>
@@ -270,7 +247,6 @@
       <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Gravitational waves have opened a new window on the universe's most violent events, but our understanding of how these ripples in spacetime interact with matter remains incomplete.]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2605.14956v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects short gamma-ray burst GRB 260311A with high significance]]></title>
@@ -279,7 +255,6 @@
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 11, 2026, at 03:35 UTC, the Fermi Gamma-ray Burst Monitor detected a sudden, brilliant flash of gamma rays from the distant cosmos—and Starithm captured every second of it.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Fermi detects GRB 260208D with a calculated location and significant gamma-ray intensity.]]></title>
@@ -288,7 +263,6 @@
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 8, 2026, at 16:12 UTC, NASA's Fermi satellite caught something remarkable: a powerful gamma-ray burst flooding across the southern celestial hemisphere.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Gravitational-wave standard sirens and application in cosmology]]></title>
@@ -297,7 +271,6 @@
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The detection of GW170817 in 2017 fundamentally changed how we study the cosmos. For the first time, gravitational waves from a binary neutron star me...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.08595v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects GRB 260210C with a long duration and significant gamma-ray intensity.]]></title>
@@ -306,7 +279,6 @@
       <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 10, 2026, the Fermi Gamma-ray Burst Monitor caught something remarkable: a long-duration gamma-ray burst bright enough to trigger alerts across the global astronomical network within seconds.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[On the Origin of Mass Ejection in Failed Supernovae]]></title>
@@ -315,7 +287,6 @@
       <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[When the most massive stars reach the end of their lives, they don't always go out with the spectacular bang we associate with supernovae.]]></description>
       <category><![CDATA[Neutrinos]]></category>
-      <source url="https://arxiv.org/abs/2605.05289v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi detected GRB260211.89, a gamma-ray burst with follow-up optical observations.]]></title>
@@ -324,7 +295,6 @@
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 11, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden flash of high-energy radiation from the cosmos—and Starithm was there to track every second of it.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Constraints on Ultralight Scalar and Dark Photon Dark Matter from PPTA-DR3 and EPTA-DR2]]></title>
@@ -333,7 +303,6 @@
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Pulsar timing arrays have emerged as an unexpected tool for dark matter detection. While these instruments were designed to catch the subtle ripples o...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.02172v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with significant gamma-ray burst intensity.]]></title>
@@ -342,7 +311,6 @@
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 3, 2026, at **20:47 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) detected a significant gamma-ray burst that immediately triggered alerts across the global astronomical network.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Eccentricity as a signature of hierarchical subsolar-mass mergers in collapsar disks]]></title>
@@ -351,7 +319,6 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The discovery of AT2025ulz—a potential electromagnetic counterpart to the sub-threshold gravitational wave event S250818k—has opened a new window into...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2604.26912v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with varying significance levels.]]></title>
@@ -360,7 +327,6 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 4, 2026, the Fermi Gamma-ray Burst Monitor (GBM) caught something extraordinary—a gamma-ray burst that lit up the cosmos with enough energy to briefly outshine entire galaxies of visible light.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with significant gamma-ray burst intensity.]]></title>
@@ -369,7 +335,6 @@
       <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 8, 2026, the Fermi Gamma-ray Burst Monitor detected a significant gamma-ray burst that demonstrated the power of rapid, coordinated space-based monitoring.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Stationary solutions in the small-$c$ expansion of GR]]></title>
@@ -378,7 +343,6 @@
       <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[General relativity remains our best description of gravity, yet solving its field equations exactly is notoriously difficult.]]></description>
       <category><![CDATA[Astronomy Research]]></category>
-      <source url="https://arxiv.org/abs/2604.23677v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects and localizes GRB 260311B with a statistical uncertainty of 11.7 degrees.]]></title>
@@ -387,7 +351,6 @@
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 11, 2026, the Fermi Gamma-ray Burst Monitor (GBM) caught a glimpse of the universe's most violent explosions—a gamma-ray burst (GRB) that triggered a cascade of alerts across the global astronomical network.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Tests of scalar polarizations with multi-messenger events]]></title>
@@ -396,7 +359,6 @@
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Testing Einstein's General Relativity in the strong-field regime—where gravity is at its most extreme—remains one of the central goals of gravitational wave astronomy.]]></description>
       <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2604.24526v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[GRB detected by Fermi GBM with significant gamma-ray burst intensity.]]></title>
@@ -405,7 +367,6 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 14, 2026, at **16:15 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) detected a burst of high-energy radiation from deep space—and Starithm was there to capture every millisecond of it.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects a gamma-ray burst (GRB) with varying intensity levels.]]></title>
@@ -414,7 +375,6 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On February 22, 2026, the cosmos delivered a violent reminder of its dynamism. At **00:50 UTC**, NASA's Fermi Gamma-ray Burst Monitor (GBM) caught a sudden spike in high-energy radiation—a gamma-ray b...]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective]]></title>
@@ -423,7 +383,6 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The discovery of gravitational waves has fundamentally transformed how we search for dark matter and physics beyond the Standard Model.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2604.22462v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Electromagnetic Precursors to Binary Neutron Star Mergers: Kinetic Simulations of Magnetospheric Flaring]]></title>
@@ -432,7 +391,6 @@
       <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Binary neutron star mergers represent one of the most violent events in the universe, and the 2017 detection of gravitational waves from such a merger opened a new window on these cataclysms.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2604.22059v1">arXiv</source>
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects and locates Long GRB 260302A with high significance]]></title>
@@ -441,7 +399,6 @@
       <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 2, 2026, the Fermi Gamma-ray Burst Monitor detected something remarkable—a long gamma-ray burst that lit up the high-energy sky with unmistakable significance.]]></description>
       <category><![CDATA[GRB]]></category>
-      
     </item>
     <item>
       <title><![CDATA[Fermi GBM detects short GRB 260308A with a statistical uncertainty of 3.6 degrees.]]></title>
@@ -450,16 +407,6 @@
       <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 8, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden, violent flash from deep space—a short gamma-ray burst that lasted just 1.]]></description>
       <category><![CDATA[GRB]]></category>
-      
-    </item>
-    <item>
-      <title><![CDATA[Fermi GBM detected GRB 260313A with updated localization RA=241.16, Dec=5.80.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-795096033</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-795096033</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On March 13, 2026, the Fermi Gamma-ray Burst Monitor (GBM) detected a long gamma-ray burst that would set off a cascade of alerts, corrections, and follow-up observations across the global astronomy network.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
     </item>
   </channel>
 </rss>

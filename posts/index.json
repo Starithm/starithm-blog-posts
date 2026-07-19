@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fermi GBM detects long GRB 260708A with significant X-ray and optical counterparts",
+    "date": "2026-07-19",
+    "category": "GRB",
+    "excerpt": "On July 8, 2026, the Fermi Gamma-ray Burst Monitor caught something spectacular—a bright, energetic long gamma-ray burst that would trigger a coordinated global response.",
+    "event_id": "805198281",
+    "significance": "High",
+    "notice_count": "8",
+    "circular_count": "12",
+    "read_time": "3 min read",
+    "slug": "event-805198281"
+  },
+  {
     "title": "Extending the infrastructure of the BAM code towards resistive general-relativistic magnetohydrodynamics: tests and first applications",
     "date": "2026-07-19",
     "category": "GRB",
@@ -984,7 +996,7 @@
     "event_id": "GBM_794811435",
     "significance": "High",
     "notice_count": "7",
-    "circular_count": "58",
+    "circular_count": "59",
     "read_time": "3 min read",
     "slug": "event-gbm-794811435"
   },
