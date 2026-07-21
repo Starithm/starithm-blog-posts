@@ -1,5 +1,17 @@
 [
   {
+    "title": "Long GRB 260714B detected by Fermi with high-energy emission up to 10 GeV",
+    "date": "2026-07-21",
+    "category": "GRB",
+    "excerpt": "On July 14, 2026, at 18:23:26 UTC, the cosmos delivered a spectacular reminder of its violent side. A long gamma-ray burst designated **GRB 260714B** erupted with enough energy to reach **10 GeV**—a threshold rarely crossed in GRB observations.",
+    "event_id": "805746211",
+    "significance": "High",
+    "notice_count": "7",
+    "circular_count": "9",
+    "read_time": "3 min read",
+    "slug": "event-805746211"
+  },
+  {
     "title": "Fermi GBM detects long GRB 260708A with significant X-ray and optical counterparts",
     "date": "2026-07-19",
     "category": "GRB",
@@ -960,7 +972,7 @@
     "event_id": "01709258389",
     "significance": "High",
     "notice_count": "1",
-    "circular_count": "15",
+    "circular_count": "16",
     "read_time": "3 min read",
     "slug": "event-01709258389"
   },

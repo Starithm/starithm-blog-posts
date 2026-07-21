@@ -5,9 +5,17 @@
     <link>https://starithm.ai/blog</link>
     <description>Multi-messenger astronomy research, GCN alerts, and transient event analysis from Starithm.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:28:08 GMT</lastBuildDate>
     <atom:link href="https://starithm.ai/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Long GRB 260714B detected by Fermi with high-energy emission up to 10 GeV]]></title>
+      <link>https://starithm.ai/blog/posts/event-805746211</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-805746211</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[On July 14, 2026, at 18:23:26 UTC, the cosmos delivered a spectacular reminder of its violent side. A long gamma-ray burst designated **GRB 260714B** erupted with enough energy to reach **10 GeV**—a threshold rarely crossed in GRB observations.]]></description>
+      <category><![CDATA[GRB]]></category>
+    </item>
     <item>
       <title><![CDATA[Fermi GBM detects long GRB 260708A with significant X-ray and optical counterparts]]></title>
       <link>https://starithm.ai/blog/posts/event-805198281</link>
@@ -398,14 +406,6 @@
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794153985</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 2, 2026, the Fermi Gamma-ray Burst Monitor detected something remarkable—a long gamma-ray burst that lit up the high-energy sky with unmistakable significance.]]></description>
-      <category><![CDATA[GRB]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Fermi GBM detects short GRB 260308A with a statistical uncertainty of 3.6 degrees.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-794693157</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794693157</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On March 8, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden, violent flash from deep space—a short gamma-ray burst that lasted just 1.]]></description>
       <category><![CDATA[GRB]]></category>
     </item>
   </channel>
