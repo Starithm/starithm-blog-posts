@@ -20,7 +20,7 @@ The authors present a comprehensive overview of how radio observations can const
 
 Notably, the authors highlight that radio observations may enable *possible detection of misaligned jets once their velocity becomes non-relativistic*—a regime where jets initially beamed away from Earth could become visible as they decelerate. This capability has already been demonstrated: connected interferometers and VLBI arrays proved essential in constraining the ejecta properties of GW170817, the benchmark event for multimessenger astronomy.
 
-![Illustration of radio emission timescales from GRB afterglows and merger counterparts](https://arxiv.org/html/2606.27037/2606.27037v1/Rhodes24.png)
+![Illustration of radio emission timescales from GRB afterglows and merger counterparts](https://arxiv.org/html/2606.27037v1/Rhodes24.png)
 
 The authors argue that even SKAO in its initial configuration (AA*) will provide *the sensitivity and field of view needed to complement GW counterpart searches* during the upcoming O5 observing run and beyond. Beyond individual event follow-up, they emphasize that SKAO will enable *population studies of the properties of both long GRBs (produced by massive star collapse) and short GRBs (produced by neutron star mergers)*, along with their jets and environments.
 

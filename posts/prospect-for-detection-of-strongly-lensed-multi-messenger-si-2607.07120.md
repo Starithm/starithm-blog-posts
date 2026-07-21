@@ -24,7 +24,7 @@ The authors propose a complementary strategy: targeted follow-up observations of
 
 For near-infrared observations with an RST-like facility, lensed kilonovae become more accessible, with predicted detection rates of **~0.45⁺⁰·⁸¹₋₀.₃₄ yr⁻¹** in the F106 band, **0.55⁺⁰·⁹⁸₋₀.₄₁ yr⁻¹** in F158, and **0.078⁺⁰·¹³⁹₋₀.₀₅₉ yr⁻¹** in F213. Optical and radio afterglows remain challenging, though ATHENA-like X-ray observations may detect **0.5–5 events over ten years**.
 
-![Predicted detection rates for lensed electromagnetic counterparts across different wavelengths and observatories](https://arxiv.org/html/2607.07120/2607.07120v1/x3.png)
+![Predicted detection rates for lensed electromagnetic counterparts across different wavelengths and observatories](https://arxiv.org/html/2607.07120v1/x3.png)
 
 ## Why it matters
 

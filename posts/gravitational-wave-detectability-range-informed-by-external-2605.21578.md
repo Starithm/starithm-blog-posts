@@ -20,7 +20,7 @@ Ronchini and colleagues developed the Targeted Detectability Range (TDR), a tool
 
 The team applied their method to all gamma-ray bursts detected during the first three observing runs of the LIGO-Virgo-KAGRA collaboration. By incorporating these external messenger constraints, the TDR provides a more tailored estimate of detectability for each individual event. The authors validated their approach through systematic comparison with the **90% exclusion distances** derived from modeled targeted gravitational-wave searches—the standard method used by the detector network to assess sensitivity to specific sources.
 
-![Detectability estimates for gamma-ray bursts observed during LIGO-Virgo-KAGRA O1-O3, showing how external messenger information constrains gravitational-wave range predictions](https://arxiv.org/html/2605.21578/2605.21578v1/x2.png)
+![Detectability estimates for gamma-ray bursts observed during LIGO-Virgo-KAGRA O1-O3, showing how external messenger information constrains gravitational-wave range predictions](https://arxiv.org/html/2605.21578v1/x2.png)
 
 The comparison demonstrates that the TDR method produces results consistent with these rigorous, computationally intensive searches, while requiring substantially less computational effort.
 

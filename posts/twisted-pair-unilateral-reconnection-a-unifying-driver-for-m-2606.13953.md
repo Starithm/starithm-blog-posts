@@ -18,7 +18,7 @@ Magnetic reconnection—the sudden rearrangement of magnetic field lines that re
 
 The research centers on observations of a solar flare containing a magnetic loop twisted to approximately **540 degrees**—far more extreme than the **180 degrees** assumed in existing simulations. This exceptional twist appears to enable efficient multiple X-line reconnection, a process the authors compare to the role turbulence plays in contemporary reconnection theory. Crucially, after reconnection occurs, the intertwined magnetic field lines break apart *unilaterally*—asymmetrically—rather than symmetrically as predicted by simulations. This asymmetric breaking creates open field lines that release hot plasma, potentially explaining coronal heating or generation mechanisms.
 
-![Flare evolution showing the twisted magnetic loop structure and reconnection dynamics](https://arxiv.org/html/2606.13953/2606.13953v1/Flarevolution.png)
+![Flare evolution showing the twisted magnetic loop structure and reconnection dynamics](https://arxiv.org/html/2606.13953v1/Flarevolution.png)
 
 The team also made a direct detection of hard X-ray emission from the current sheet itself, providing the first observational proof that the current sheet acts as a particle accelerator during reconnection.
 

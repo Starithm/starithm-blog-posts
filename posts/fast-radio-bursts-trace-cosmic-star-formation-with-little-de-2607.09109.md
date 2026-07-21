@@ -20,7 +20,7 @@ Wang, Li, and Fan conducted a sophisticated statistical analysis of **over 800 C
 
 The results were consistent across all models tested: the peak of the FRB rate aligns with the peak of the cosmic star-formation history at redshift **z ≈ 2**, occurring roughly **10 billion years ago**. Crucially, the mean delay between star formation and FRB activity is only **0.1–0.3 Gyr** (100–300 million years). This short timescale remains *consistent with a prompt, zero-delay origin at the 2σ level*, meaning the data cannot rule out FRBs occurring essentially immediately after their progenitors form.
 
-![Reconstructed FRB rate versus cosmic star-formation history](https://arxiv.org/html/2607.09109/2607.09109v1/x3.png)
+![Reconstructed FRB rate versus cosmic star-formation history](https://arxiv.org/html/2607.09109v1/x3.png)
 
 This finding directly challenges previous claims that FRBs follow multi-Gyr delays characteristic of compact-binary mergers—systems where two neutron stars or a neutron star and black hole gradually spiral inward over billions of years before colliding. The authors' analysis rules out such long delays for the dominant FRB population.
 

@@ -20,7 +20,7 @@ The authors developed a self-consistent equipartition framework that accounts fo
 
 Rohde and colleagues derived a unified treatment for both Newtonian outflows and relativistic jets (both on-axis and off-axis configurations), implemented it in publicly available code, and tested it on four astrophysical sources: the tidal disruption events ASASSN-19bt and AT2019dsg, the fast X-ray transient EP240414a, and the active galactic nucleus J0231-0433. The key finding is that the interdependence of correction factors matters substantially. When corrections are applied self-consistently rather than independently, the inferred energies increase significantly—by a factor of approximately **~5** in their test cases.
 
-![Equipartition correction factors and their interdependencies across different source types](https://arxiv.org/html/2607.06770/2607.06770v1/x2.png)
+![Equipartition correction factors and their interdependencies across different source types](https://arxiv.org/html/2607.06770v1/x2.png)
 
 This result has immediate implications: if the same systematic underestimation applies broadly across the literature, then our current understanding of outflow energetics may be systematically biased low.
 

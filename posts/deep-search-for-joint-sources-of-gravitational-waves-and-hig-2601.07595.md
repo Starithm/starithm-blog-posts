@@ -20,8 +20,6 @@ The collaboration searched for common sources of gravitational waves and high-en
 
 The search yielded no significant joint sources. However, the authors derived meaningful constraints on the rate densities of objects that produce both gravitational waves and neutrinos. Most importantly, their results constrain the isotropic neutrino emission from gravitational-wave sources, particularly for scenarios involving very high total energy radiated in neutrinos—**greater than 10⁵² to 10⁵⁴ erg**. These constraints are quantitative limits on how much neutrino energy such sources could emit while remaining consistent with the non-detection.
 
-![IceCube Collaboration logo](https://arxiv.org/html/2601.07595/static/base/1.0.1/images/cornell-reduced-white-SMALL.svg)
-
 ## Why it matters
 
 Multi-messenger astronomy has transformed our understanding of extreme cosmic events. The 2017 neutron star merger detected in gravitational waves and across the electromagnetic spectrum demonstrated the power of coordinated observations. Adding neutrinos to this picture offers additional constraints on the physics of compact object mergers and stellar collapse. Neutrinos escape from the densest regions where photons cannot, carrying information about nuclear processes and extreme densities inaccessible through other channels.

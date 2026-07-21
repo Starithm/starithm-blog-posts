@@ -20,7 +20,7 @@ The team validated their resistive GRMHD implementation through two complementar
 
 The key discovery concerns the role of non-ideal effects in post-merger evolution. In ideal MHD, the component of the electric field parallel to the magnetic field is strictly zero—a mathematical consequence of infinite conductivity. However, when finite conductivity is included, this parallel component becomes non-zero, reaching up to **10% of the total electric field strength**. The authors emphasize that this effect appears particularly pronounced in low-density regions, *suggesting that non-ideal processes may be important for accurately modeling the long-term evolution of post-merger remnants*. The study also investigates how finite conductivity affects magnetic-field amplification and mass ejection, though the authors note their investigation was restricted to simplified piecewise-polytropic equations of state.
 
-![Validation of resistive GRMHD implementation through benchmark tests](https://arxiv.org/html/2607.11670/2607.11670v1/x1.png)
+![Validation of resistive GRMHD implementation through benchmark tests](https://arxiv.org/html/2607.11670v1/x1.png)
 
 ## Why It Matters
 

@@ -22,7 +22,7 @@ Through latency analysis, the authors identify a credible path to achieving resp
 
 The paper highlights specific science cases where rapid response would be transformative. For gravitational wave follow-up, Lazuli's speed and sensitivity would enable early characterization of kilonovae—the electromagnetic counterparts to neutron star mergers. The authors discuss how the observatory's capabilities would constrain kilonova properties and composition during the crucial early evolution phase. Similarly, for supernovae, rapid spectroscopy could probe progenitor physics and explosion mechanisms before the light curve enters later evolutionary phases.
 
-![Kilonova light curves and spectral evolution showing the rapid changes in brightness and composition during the first week after merger](https://arxiv.org/html/2606.17136/2606.17136v1/figures/KN_lightcurves.png)
+![Kilonova light curves and spectral evolution showing the rapid changes in brightness and composition during the first week after merger](https://arxiv.org/html/2606.17136v1/figures/KN_lightcurves.png)
 
 Beyond extragalactic transients, Lazuli's high-frequency, diffraction-limited imaging and astrometry would enable new Galactic science. The authors outline opportunities for detecting high-frequency variability in accreting systems, performing precision astrometry of compact objects, and identifying compact and ultracompact binaries—populations currently difficult to characterize systematically.
 
