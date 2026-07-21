@@ -12,6 +12,17 @@
     "slug": "event-805746211"
   },
   {
+    "title": "Swift gives a new BAT-GLIMPSE: Gamma-ray Localization using Imaging and Mosaic techniques for Pointing and Slew Epochs",
+    "date": "2026-07-21",
+    "category": "GRB",
+    "excerpt": "The Swift satellite has long been a workhorse for gamma-ray transient astronomy, but it has a critical blind spot: when the spacecraft slews to reposi...",
+    "arxiv_id": "2607.15130",
+    "arxiv_url": "https://arxiv.org/abs/2607.15130v1",
+    "authors": "S. Ronchini, T. Parsotan, J. DeLaunay et al.",
+    "read_time": "3 min read",
+    "slug": "swift-gives-a-new-bat-glimpse-gamma-ray-localization-using-i-2607.15130"
+  },
+  {
     "title": "Fermi GBM detects long GRB 260708A with significant X-ray and optical counterparts",
     "date": "2026-07-19",
     "category": "GRB",
