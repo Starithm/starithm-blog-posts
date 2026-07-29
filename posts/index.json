@@ -11,6 +11,18 @@
     "slug": "black-hole-neutron-star-binaries-with-high-spins-and-large-m-2607.20609"
   },
   {
+    "title": "GRB 260718A detected by Fermi GBM and SVOM/ECLAIRs with follow-up observations revealing potential X-ray counterpart",
+    "date": "2026-07-29",
+    "category": "GRB",
+    "excerpt": "On July 18, 2026, the cosmos delivered a spectacular reminder of why astronomers keep their eyes on the sky around the clock.",
+    "event_id": "806066200",
+    "significance": "High",
+    "notice_count": "4",
+    "circular_count": "8",
+    "read_time": "3 min read",
+    "slug": "event-806066200"
+  },
+  {
     "title": "Long GRB 260714B detected by Fermi with high-energy emission up to 10 GeV",
     "date": "2026-07-21",
     "category": "GRB",
@@ -18,7 +30,7 @@
     "event_id": "805746211",
     "significance": "High",
     "notice_count": "7",
-    "circular_count": "9",
+    "circular_count": "10",
     "read_time": "3 min read",
     "slug": "event-805746211"
   },
