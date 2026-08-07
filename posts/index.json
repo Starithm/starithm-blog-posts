@@ -1,5 +1,17 @@
 [
   {
+    "title": "GRB 260226A: Bright long gamma-ray burst detected by Fermi and multiple observatories",
+    "date": "2026-08-07",
+    "category": "GRB",
+    "excerpt": "On February 26, 2026, at 10:37:55 UT, the Fermi Gamma-ray Burst Monitor detected a powerful gamma-ray burst that would light up the global astronomical network for hours.",
+    "event_id": "GBM_793795080",
+    "significance": "High",
+    "notice_count": "9",
+    "circular_count": "18",
+    "read_time": "3 min read",
+    "slug": "event-gbm-793795080"
+  },
+  {
     "title": "Submillimeter Detectability of Gravitational-Wave Counterparts from Neutron-Star Mergers with the Xue-shan-mu-chang 15-meter Telescope",
     "date": "2026-08-07",
     "category": "Magnetars",
@@ -110,7 +122,7 @@
     "event_id": "sb26070606",
     "significance": "High",
     "notice_count": "3",
-    "circular_count": "11",
+    "circular_count": "12",
     "read_time": "3 min read",
     "slug": "event-sb26070606"
   },
