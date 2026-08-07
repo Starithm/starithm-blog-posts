@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Submillimeter Detectability of Gravitational-Wave Counterparts from Neutron-Star Mergers with the Xue-shan-mu-chang 15-meter Telescope]]></title>
+      <link>https://starithm.ai/blog/posts/submillimeter-detectability-of-gravitational-wave-counterpar-2608.00770</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/submillimeter-detectability-of-gravitational-wave-counterpar-2608.00770</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[When a pair of neutron stars collide, they unleash a cascade of electromagnetic radiation across the spectrum—but catching that light in the critical ...]]></description>
+      <category><![CDATA[Magnetars]]></category>
+      <source url="https://arxiv.org/abs/2608.00770v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[Black hole-neutron star binaries with high spins and large mass asymmetries: III. Properties of the ejected material and its electromagnetic signatures]]></title>
       <link>https://starithm.ai/blog/posts/black-hole-neutron-star-binaries-with-high-spins-and-large-m-2607.20609</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/black-hole-neutron-star-binaries-with-high-spins-and-large-m-2607.20609</guid>
@@ -449,15 +458,6 @@
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-795217544</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 14, 2026, at **16:15 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) detected a burst of high-energy radiation from deep space—and Starithm was there to capture every millisecond of it.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
-    </item>
-    <item>
-      <title><![CDATA[Fermi GBM detects a gamma-ray burst (GRB) with varying intensity levels.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-793434023</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-793434023</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On February 22, 2026, the cosmos delivered a violent reminder of its dynamism. At **00:50 UTC**, NASA's Fermi Gamma-ray Burst Monitor (GBM) caught a sudden spike in high-energy radiation—a gamma-ray b...]]></description>
       <category><![CDATA[GRB]]></category>
       
     </item>
