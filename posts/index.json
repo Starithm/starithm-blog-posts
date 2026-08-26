@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bright long-duration GRB 260727A detected by SVOM with multiple peaks.",
+    "date": "2026-08-26",
+    "category": "GRB",
+    "excerpt": "On the morning of July 27, 2026, the SVOM mission's gamma-ray detectors caught something remarkable: a brilliant, long-duration gamma-ray burst that would soon capture the attention of observatories across the globe.",
+    "event_id": "sb26072701",
+    "significance": "High",
+    "notice_count": "3",
+    "circular_count": "15",
+    "read_time": "3 min read",
+    "slug": "event-sb26072701"
+  },
+  {
     "title": "GRB 260226A: Bright long gamma-ray burst detected by Fermi and multiple observatories",
     "date": "2026-08-07",
     "category": "GRB",
@@ -76,7 +88,7 @@
     "event_id": "805198281",
     "significance": "High",
     "notice_count": "8",
-    "circular_count": "12",
+    "circular_count": "16",
     "read_time": "3 min read",
     "slug": "event-805198281"
   },

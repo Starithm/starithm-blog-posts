@@ -5,9 +5,17 @@
     <link>https://starithm.ai/blog</link>
     <description>Multi-messenger astronomy research, GCN alerts, and transient event analysis from Starithm.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:11:37 GMT</lastBuildDate>
     <atom:link href="https://starithm.ai/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Bright long-duration GRB 260727A detected by SVOM with multiple peaks.]]></title>
+      <link>https://starithm.ai/blog/posts/event-sb26072701</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-sb26072701</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[On the morning of July 27, 2026, the SVOM mission's gamma-ray detectors caught something remarkable: a brilliant, long-duration gamma-ray burst that would soon capture the attention of observatories across the globe.]]></description>
+      <category><![CDATA[GRB]]></category>
+    </item>
     <item>
       <title><![CDATA[GRB 260226A: Bright long gamma-ray burst detected by Fermi and multiple observatories]]></title>
       <link>https://starithm.ai/blog/posts/event-gbm-793795080</link>
@@ -398,14 +406,6 @@
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794948280</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 11, 2026, the Fermi Gamma-ray Burst Monitor (GBM) caught a glimpse of the universe's most violent explosions—a gamma-ray burst (GRB) that triggered a cascade of alerts across the global astronomical network.]]></description>
-      <category><![CDATA[GRB]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Tests of scalar polarizations with multi-messenger events]]></title>
-      <link>https://starithm.ai/blog/posts/tests-of-scalar-polarizations-with-multi-messenger-events-2604.24526</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/tests-of-scalar-polarizations-with-multi-messenger-events-2604.24526</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Testing Einstein's General Relativity in the strong-field regime—where gravity is at its most extreme—remains one of the central goals of gravitational wave astronomy.]]></description>
       <category><![CDATA[GRB]]></category>
     </item>
   </channel>

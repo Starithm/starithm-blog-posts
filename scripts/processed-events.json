@@ -15,8 +15,8 @@
     "805198281": {
       "slug": "event-805198281",
       "noticeCount": 8,
-      "circularCount": 12,
-      "lastUpdated": "2026-07-19"
+      "circularCount": 16,
+      "lastUpdated": "2026-08-26"
     },
     "805746211": {
       "slug": "event-805746211",
@@ -299,6 +299,12 @@
       "noticeCount": 9,
       "circularCount": 18,
       "lastUpdated": "2026-08-07"
+    },
+    "sb26072701": {
+      "slug": "event-sb26072701",
+      "noticeCount": 3,
+      "circularCount": 15,
+      "lastUpdated": "2026-08-26"
     }
   }
 }
