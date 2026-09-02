@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bright, long-duration GRB 260727A detected by SVOM with multi-peaked structure and significant follow-up observations.",
+    "date": "2026-09-02",
+    "category": "GRB",
+    "excerpt": "On the morning of July 27, 2026, the cosmos delivered an unmistakable knock on our door. The SVOM mission's ECLAIRs instrument caught a brilliant gamma-ray burst that would occupy the attention of observatories across the globe for the next 24 hours.",
+    "event_id": "sb26072702",
+    "significance": "High",
+    "notice_count": "2",
+    "circular_count": "13",
+    "read_time": "3 min read",
+    "slug": "event-sb26072702"
+  },
+  {
     "title": "Source models of ultrahigh-energy cosmic rays",
     "date": "2026-09-02",
     "category": "GRB",
@@ -64,7 +76,7 @@
     "event_id": "806066200",
     "significance": "High",
     "notice_count": "4",
-    "circular_count": "8",
+    "circular_count": "9",
     "read_time": "3 min read",
     "slug": "event-806066200"
   },

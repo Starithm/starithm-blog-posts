@@ -27,8 +27,8 @@
     "806066200": {
       "slug": "event-806066200",
       "noticeCount": 4,
-      "circularCount": 8,
-      "lastUpdated": "2026-07-29"
+      "circularCount": 9,
+      "lastUpdated": "2026-09-02"
     },
     "GBM_792220053": {
       "slug": "event-gbm-792220053",
@@ -305,6 +305,12 @@
       "noticeCount": 3,
       "circularCount": 15,
       "lastUpdated": "2026-08-26"
+    },
+    "sb26072702": {
+      "slug": "event-sb26072702",
+      "noticeCount": 2,
+      "circularCount": 13,
+      "lastUpdated": "2026-09-02"
     }
   }
 }
