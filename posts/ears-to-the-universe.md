@@ -32,10 +32,10 @@ JWST's integral field spectrographs, NIRSpec and MIRI, record that fingerprint f
 
 **4. Turn light into sound.**
 
-- **Pitch follows wavelength.** Shorter wavelengths play higher notes, on a D minor pentatonic scale spanning four octaves. Each note leans very slightly toward the exact pitch of its spectral line, so two lines that share a note still sound apart.
-- **Emission lines ring.** Wherever a line stands more than four standard deviations above the noise, it sounds as a tone, and a soft bell marks the moment it grows stronger.
+- **Pitch follows wavelength.** Shorter wavelengths play higher notes, on a five-note scale spanning four octaves. Each track chooses its own key and scale, so no two nights climb quite the same ladder. Each note leans very slightly toward the exact pitch of its spectral line, so two lines that share a note still sound apart.
+- **Emission lines ring.** Wherever a line stands more than four standard deviations above the noise, it sounds as a tone, and a struck instrument marks the moment it grows stronger: a bell, a marimba, a harp or a plucked guitar, depending on the track.
 - **Absorption breathes.** Narrow dips, where cooler gas takes light away, sound as a quiet band of breath at that note's pitch.
-- **Brightness hums.** A low drone rises and falls with how bright each region is.
+- **Brightness hums.** A low sustained voice rises and falls with how bright each region is.
 
 There is also a **Raw light** version that plays the whole spectrum as continuous sound, closer to the data and less melodic. You can switch between the two while listening.
 
@@ -59,7 +59,9 @@ Absorption is easiest to hear in denser starlight. In the Arches Cluster, one of
 
 Each track comes with a short poem written by an AI model. The model sees the map of the target with the song's path drawn on it, plus a list of what was actually measured: which lines were detected, when in the song each one is loud, and how bright each stretch is.
 
-It has no say over the music. It only narrates.
+It has no say over which notes are played. Every pitch, every moment and every loudness comes from the measurement.
+
+A second model does have a say, but only over how those notes sound. Before a track is rendered, it reads the same measured facts and chooses the instruments, the key and scale, and how much echo the piece carries, all from a fixed catalogue it cannot step outside. The data still decides every note; the model decides what plays them. Its one-line explanation is held to the same plain language as the poem, and the page names the instruments it chose.
 
 Before a poem is published, automated checks reject any mention of a gas that wasn't detected, and keep technical labels out of the verse. The science note beneath the poem stays in plain prose, and the page says clearly that the poem is AI-written.
 
