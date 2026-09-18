@@ -63,6 +63,10 @@ It has no say over which notes are played. Every pitch, every moment and every l
 
 A second model does have a say, but only over how those notes sound. Before a track is rendered, it reads the same measured facts and chooses the instruments, the key and scale, and how much echo the piece carries, all from a fixed catalogue it cannot step outside. The data still decides every note; the model decides what plays them. Its one-line explanation is held to the same plain language as the poem, and the page names the instruments it chose.
 
+That choice, though, carries no information, and it is worth being blunt about it. Instruments are picked for character, and deliberately varied from one track to the next so that more of the catalogue gets heard. Two tracks sounding different tells you nothing about how the two objects differ. The same goes for loudness: every track is normalised to the same level, so you cannot hear which target was brighter.
+
+What does carry information is published with each track as a mapping key: which wavelengths became which pitches, what threshold a feature had to clear to sound at all, what the passing of time means, and what each voice is doing. Every track also comes with a short reference tone, its lowest and highest notes, so the wavelength-to-pitch frame can be checked by ear rather than taken on trust.
+
 Before a poem is published, automated checks reject any mention of a gas that wasn't detected, and keep technical labels out of the verse. The science note beneath the poem stays in plain prose, and the page says clearly that the poem is AI-written.
 
 ## What you'll see on the page
@@ -71,6 +75,7 @@ Before a poem is published, automated checks reject any mention of a gas that wa
 - **A note ladder** showing how loud each note is at every moment, marked with the element behind it: solid bars ring, hatched blue bars breathe
 - **A spectrogram** of the music you can click to jump anywhere
 - **The poem**, stanza by stanza, lighting up in time with the music
+- **How to read this track**: the mapping key, naming every channel that carries information and the numbers behind it, plus a button to hear the two notes at the ends of the scale
 - **Shareable moments**: add `?t=42` to a track's link to start at 42 seconds
 
 ## Standing on good shoulders
