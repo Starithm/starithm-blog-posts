@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Toward Autonomous Radio Follow-up of Multi-messenger Transients with RADAR: From Alert Parsing to Inference and Observation Scheduling]]></title>
+      <link>https://starithm.ai/blog/posts/toward-autonomous-radio-follow-up-of-multi-messenger-transie-2609.18233</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/toward-autonomous-radio-follow-up-of-multi-messenger-transie-2609.18233</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[When a gravitational wave detector picks up the signature of a cosmic collision, the clock starts ticking.]]></description>
+      <category><![CDATA[Gravitational Waves]]></category>
+      <source url="https://arxiv.org/abs/2609.18233v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[Ears to the Universe: the James Webb Space Telescope, as music, every day]]></title>
       <link>https://starithm.ai/blog/posts/ears-to-the-universe</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/ears-to-the-universe</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[The discovery of AT2025ulz—a potential electromagnetic counterpart to the sub-threshold gravitational wave event S250818k—has opened a new window into...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
       <source url="https://arxiv.org/abs/2604.26912v1">arXiv</source>
-    </item>
-    <item>
-      <title><![CDATA[GRB detected by Fermi GBM with varying significance levels.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-794331584</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794331584</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On March 4, 2026, the Fermi Gamma-ray Burst Monitor (GBM) caught something extraordinary—a gamma-ray burst that lit up the cosmos with enough energy to briefly outshine entire galaxies of visible light.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
     </item>
   </channel>
 </rss>

@@ -1,5 +1,16 @@
 [
   {
+    "title": "Toward Autonomous Radio Follow-up of Multi-messenger Transients with RADAR: From Alert Parsing to Inference and Observation Scheduling",
+    "date": "2026-09-21",
+    "category": "Gravitational Waves",
+    "excerpt": "When a gravitational wave detector picks up the signature of a cosmic collision, the clock starts ticking.",
+    "arxiv_id": "2609.18233",
+    "arxiv_url": "https://arxiv.org/abs/2609.18233v1",
+    "authors": "Mihael Hategan-Marandiuc, Tanner O'Dwyer, Alessandra Corsi et al.",
+    "read_time": "3 min read",
+    "slug": "toward-autonomous-radio-follow-up-of-multi-messenger-transie-2609.18233"
+  },
+  {
     "title": "Ears to the Universe: the James Webb Space Telescope, as music, every day",
     "date": "2026-09-15",
     "category": "Platform",
