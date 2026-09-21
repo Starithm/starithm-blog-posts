@@ -1,5 +1,17 @@
 [
   {
+    "title": "GRB 260915A: Long-duration GRB detected by SVOM with fading X-ray afterglow",
+    "date": "2026-09-21",
+    "category": "GRB",
+    "excerpt": "On September 15, 2026, at 01:12:03 UTC, the SVOM mission's ECLAIRs instrument caught something extraordinary—a long-duration gamma-ray burst that would puzzle and fascinate the astronomical community for hours to come.",
+    "event_id": "sb26091501",
+    "significance": "High",
+    "notice_count": "3",
+    "circular_count": "19",
+    "read_time": "3 min read",
+    "slug": "event-sb26091501"
+  },
+  {
     "title": "Toward Autonomous Radio Follow-up of Multi-messenger Transients with RADAR: From Alert Parsing to Inference and Observation Scheduling",
     "date": "2026-09-21",
     "category": "Gravitational Waves",
@@ -27,7 +39,7 @@
     "event_id": "sb26072702",
     "significance": "High",
     "notice_count": "2",
-    "circular_count": "13",
+    "circular_count": "15",
     "read_time": "3 min read",
     "slug": "event-sb26072702"
   },
