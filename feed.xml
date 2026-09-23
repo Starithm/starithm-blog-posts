@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[What our sonification can and cannot tell you]]></title>
+      <link>https://starithm.ai/blog/posts/what-the-sonification-can-and-cannot-tell-you</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/what-the-sonification-can-and-cannot-tell-you</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[We spent a week testing whether Ears to the Universe actually distinguishes one observation from another. It resolves chemistry rather than objects, one of its four voices turned out to be an artifact of a design choice, and three of our own conclusions were wrong before we got here.]]></description>
+      <category><![CDATA[Platform]]></category>
+      
+    </item>
+    <item>
       <title><![CDATA[GRB 260915A: Long-duration GRB detected by SVOM with fading X-ray afterglow]]></title>
       <link>https://starithm.ai/blog/posts/event-sb26091501</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-sb26091501</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[Pulsar timing arrays have emerged as an unexpected tool for dark matter detection. While these instruments were designed to catch the subtle ripples o...]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
       <source url="https://arxiv.org/abs/2605.02172v1">arXiv</source>
-    </item>
-    <item>
-      <title><![CDATA[GRB detected by Fermi GBM with significant gamma-ray burst intensity.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-794283459</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794283459</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On March 3, 2026, at **20:47 UTC**, the Fermi Gamma-ray Burst Monitor (GBM) detected a significant gamma-ray burst that immediately triggered alerts across the global astronomical network.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
     </item>
   </channel>
 </rss>
