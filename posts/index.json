@@ -1,5 +1,14 @@
 [
   {
+    "title": "What our sonification can and cannot tell you",
+    "date": "2026-09-23",
+    "category": "Platform",
+    "excerpt": "We spent a week testing whether Ears to the Universe actually distinguishes one observation from another. It resolves chemistry rather than objects, one of its four voices turned out to be an artifact of a design choice, and three of our own conclusions were wrong before we got here.",
+    "slug": "what-the-sonification-can-and-cannot-tell-you",
+    "read_time": "8 min read",
+    "authors": "Starithm Team"
+  },
+  {
     "title": "GRB 260915A: Long-duration GRB detected by SVOM with fading X-ray afterglow",
     "date": "2026-09-21",
     "category": "GRB",

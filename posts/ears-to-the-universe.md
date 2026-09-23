@@ -61,7 +61,7 @@ Each track comes with a short poem written by an AI model. The model sees the ma
 
 It has no say over which notes are played. Every pitch, every moment and every loudness comes from the measurement.
 
-A second model does have a say, but only over how those notes sound. Before a track is rendered, it reads the same measured facts and chooses the instruments, the key and scale, and how much echo the piece carries, all from a fixed catalogue it cannot step outside. The data still decides every note; the model decides what plays them. Its one-line explanation is held to the same plain language as the poem, and the page names the instruments it chose.
+A second model does have a say, but only over how those notes sound. Before a track is rendered, it reads the same measured facts and chooses the instruments, the key and scale, and how much echo the piece carries, all from a fixed catalogue it cannot step outside. The data decides the pitch of every note; the chosen scale decides which rung of the ladder that pitch lands on, and the model decides what plays it. Its one-line explanation is held to the same plain language as the poem, and the page names the instruments it chose.
 
 That choice, though, carries no information, and it is worth being blunt about it. Instruments are picked for character, and deliberately varied from one track to the next so that more of the catalogue gets heard. Two tracks sounding different tells you nothing about how the two objects differ. The same goes for loudness: every track is normalised to the same level, so you cannot hear which target was brighter.
 
