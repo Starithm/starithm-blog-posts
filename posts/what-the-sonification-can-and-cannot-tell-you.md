@@ -14,6 +14,8 @@ The interesting question is whether the music **distinguishes** anything. If you
 
 Sonification projects rarely publish an answer to that. We ran eleven tests against our own first version, and this is what came back, including the parts that do not flatter us.
 
+> **Correction, 24 September 2026.** A reader spotted an internal contradiction in how we described the wavelength mapping. Chasing it down found a real error in our method: we had compared tracks rendered in different musical scales on the assumption that a wavelength always lands on the same rung. It does not. The correction is in Finding 2, and it makes the result **stronger** than the version first published, not weaker. The original numbers are kept below so the change is visible.
+
 ## The short version
 
 - **The notes carry the chemistry.** Every detected emission line lands on the pitch it should, and you can work backwards from a dominant note to a wavelength and hence to a species.
@@ -26,7 +28,15 @@ Sonification projects rarely publish an answer to that. We ran eleven tests agai
 
 Every track publishes a data layer alongside its audio: a matrix of how loud each of twenty-one ladder notes is at each step of the walk, the brightness that drives the drone, and which spectral lines were detected. That makes the music comparable as numbers rather than as impressions.
 
-Our main trick is that the map from wavelength to note *index* depends only on the observed band, not on the musical scale. The scale sets what frequency each rung sounds at; it does not change which rung a given wavelength lands on. So every track observed in the same band can be compared directly, even when they were rendered in different keys.
+Comparing tracks means knowing what is invariant between them, and our first description of this was wrong. Three stages have to be kept apart:
+
+1. **Wavelength to position.** Logarithmic across the observed band. Depends only on the band.
+2. **Position to rung.** The position is snapped to the nearest note of the chosen scale. **This depends on the scale's interval pattern.**
+3. **Rung to frequency.** Set by the key.
+
+Because the frequency range is anchored to the scale's own lowest note, transposing the whole thing moves the wavelengths and the rungs together. So the rung a wavelength lands on is **invariant to the key** but **not to the scale type**. Measured over 2,000 wavelengths across the band: 0.0% of them move between C, D and G major pentatonic, but 16.7% to 24.9% move between major pentatonic, minor pentatonic, suspended and hirajoshi.
+
+We originally claimed the rung was invariant to both, and compared tracks across different scale types on that basis. Only 37 of the 120 pairs below were valid comparisons.
 
 We compare two things. The **histogram** is which notes ring across the whole song, ignoring when. The **surface** keeps the timing. The gap between those two turned out to be the entire story.
 
@@ -51,12 +61,23 @@ This is the one that matters, and it is not what we expected.
 
 We took all sixteen tracks observed in the same mid-infrared band and compared every pair. Grouping by whether two tracks share a line inventory:
 
-| group | pairs | mean distance | range |
-|---|---|---|---|
-| different target, same lines detected | 13 | 0.566 | 0.026 to 1.157 |
-| different target, different lines | 107 | 0.700 | 0.029 to 1.282 |
+Distance here is 1 minus correlation, so 0 means identical and 1 means unrelated.
 
-Distance here is 1 minus correlation, so 0 means identical and 1 means unrelated. The ranges overlap almost entirely. And at the close end:
+| | same lines detected | different lines |
+|---|---|---|
+| all 120 pairs, **as first published** | 0.566 (n=13) | 0.700 (n=107) |
+| **valid pairs only** (matched scale type) | **0.150** (n=4) | **0.690** (n=33) |
+
+The first row is the mistake. Mixing scale types added noise to both groups and left them barely separated, which is why the original version of this post said the ranges "overlap almost completely". Restricted to comparisons that are actually meaningful, sharing a line inventory makes two tracks about four and a half times more similar.
+
+Because 16 tracks give 120 pairs but each track appears in many of them, those pairs are not independent observations. Bootstrapping over **targets** rather than pairs, 4,000 resamples:
+
+| group | mean | 95% CI |
+|---|---|---|
+| same inventory | 0.168 | 0.026 to 0.437 |
+| different inventory | 0.681 | 0.422 to 0.872 |
+
+The ordering held in 99.9% of resamples, so the direction is not in doubt. The intervals touch at their extremes, so the size of the effect is not pinned down by 16 targets. And at the close end:
 
 | pair | distance | lines |
 |---|---|---|
@@ -133,7 +154,7 @@ And here is the problem, in the same medium. These two observations have **nearl
 
 We already say on every track that instruments carry no information. We can now say it with a number behind it, and you can hear what that number means.
 
-## Three things we got wrong on the way here
+## Four things we got wrong on the way here
 
 We are including this because the errors were more instructive than the results, and because a findings post that reports only the final answer is hiding its own method.
 
@@ -143,7 +164,9 @@ We are including this because the errors were more instructive than the results,
 
 **"The arrangement cannot move a single note."** It can. Changing the musical scale changes the ladder, so the same measured wavelength snaps to a different rung, affecting about a fifth of the note grid. We have corrected the wording in [the original post](https://starithm.ai/blog/posts/ears-to-the-universe) accordingly.
 
-The pattern in all three is the same: we generalised from a small sample chosen for convenience, and the correction came from data our own pipeline had been publishing daily the whole time.
+**"A wavelength lands on the same rung whatever the scale."** It lands on the same rung whatever the *key*, which is not the same claim. Scale type changes the interval pattern, so it changes the rung, for up to a quarter of the band. We had derived this from a formula on paper instead of from the code that actually runs, and it invalidated most of the pair comparisons in Finding 2. Corrected above. This one was caught by a reader, not by us.
+
+The pattern in the first three is the same: we generalised from a small sample chosen for convenience, and the correction came from data our own pipeline had been publishing daily the whole time. The fourth is a different failure and a more embarrassing one, which is that we documented what we believed the system did rather than checking what it did.
 
 ## What we have not tested
 
