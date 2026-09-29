@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Multi-messenger and multi-band signal from first-order phase transitions in proto-neutron stars]]></title>
+      <link>https://starithm.ai/blog/posts/multi-messenger-and-multi-band-signal-from-first-order-phase-2609.29761</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/multi-messenger-and-multi-band-signal-from-first-order-phase-2609.29761</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[When a proto-neutron star undergoes a first-order phase transition—a dramatic reorganisation of matter from nuclear to quark composition—it produces n...]]></description>
+      <category><![CDATA[Neutrinos]]></category>
+      <source url="https://arxiv.org/abs/2609.29761v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[What our sonification can and cannot tell you]]></title>
       <link>https://starithm.ai/blog/posts/what-the-sonification-can-and-cannot-tell-you</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/what-the-sonification-can-and-cannot-tell-you</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[On February 11, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden flash of high-energy radiation from the cosmos—and Starithm was there to track every second of it.]]></description>
       <category><![CDATA[GRB]]></category>
       
-    </item>
-    <item>
-      <title><![CDATA[Constraints on Ultralight Scalar and Dark Photon Dark Matter from PPTA-DR3 and EPTA-DR2]]></title>
-      <link>https://starithm.ai/blog/posts/constraints-on-ultralight-scalar-and-dark-photon-dark-matter-2605.02172</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/constraints-on-ultralight-scalar-and-dark-photon-dark-matter-2605.02172</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Pulsar timing arrays have emerged as an unexpected tool for dark matter detection. While these instruments were designed to catch the subtle ripples o...]]></description>
-      <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.02172v1">arXiv</source>
     </item>
   </channel>
 </rss>
