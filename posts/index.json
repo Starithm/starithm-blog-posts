@@ -1,5 +1,17 @@
 [
   {
+    "title": "SVOM detects long-duration GRB 260909A with multi-wavelength follow-up",
+    "date": "2026-10-08",
+    "category": "GRB",
+    "excerpt": "On September 9, 2026, the cosmos delivered a puzzle. The SVOM mission caught a bright, energetic gamma-ray burst—but when ground-based observers rushed to find its optical glow, they found almost nothing.",
+    "event_id": "sb26090910",
+    "significance": "High",
+    "notice_count": "2",
+    "circular_count": "17",
+    "read_time": "3 min read",
+    "slug": "event-sb26090910"
+  },
+  {
     "title": "Memory effect from neutron star merger counterparts",
     "date": "2026-10-08",
     "category": "GRB",
@@ -18,7 +30,7 @@
     "event_id": "811905208",
     "significance": "High",
     "notice_count": "10",
-    "circular_count": "14",
+    "circular_count": "28",
     "read_time": "3 min read",
     "slug": "event-811905208"
   },
