@@ -50,11 +50,15 @@ It is worth being precise about how much judgement is compressed into "use the i
 
 Any one of those going the other way ends the project. The reason this looks obvious now is that it turned out to be right.
 
+![The IceCube Lab at the Amundsen-Scott South Pole Station, a low building on a flat expanse of snow](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IceCube_Neutrino_Observatory_in_2023_02.jpg/1280px-IceCube_Neutrino_Observatory_in_2023_02.jpg "The IceCube Lab at the South Pole, 2023. Everything visible here is the counting house; the detector itself is the kilometre of glacier underneath it. Photo: Christopher Michel, CC BY-SA 4.0")
+
 ## What it actually took
 
 The reframing was elegant. The execution took twenty-two years.
 
 In 1992, Halzen joined with Steve Barwick, Buford Price and others at UC Berkeley to propose a pilot project to the National Science Foundation: AMANDA, the Antarctic Muon and Neutrino Detector Array. To reach the clear ice, they borrowed a technique from glaciologists — hot-water drilling, melting boreholes a kilometre and a half down, then lowering instrument strings into the water and letting the glacier freeze solid around them. Once frozen, a sensor is permanent. There is no servicing, no retrieval, no second attempt.
+
+![The IceCube drill camp in Antarctica: hoses, tanks and tower structures on the ice](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IceCube_drill_camp_2009.jpg/1280px-IceCube_drill_camp_2009.jpg "The IceCube drill camp, December 2009 — mid-construction. The hot-water drill melted each borehole a kilometre and a half down; the glacier then froze solid around the sensors lowered into it. Photo: Amble, CC BY-SA 3.0")
 
 AMANDA's construction ran until January 2000. The verdict was the most awkward one a pilot project can return: everything worked as designed, and it was still not big enough. The detector functioned. It simply was not sensitive enough to catch the energy-rich neutrinos from cosmic accelerators, which is the thing the whole exercise existed to do.
 
@@ -63,6 +67,10 @@ So the answer was to build the same concept again, roughly a hundred times large
 IceCube's first string went into the ice in 2005. The last of its 86 strings was lowered just after 6 p.m. New Zealand time on December 18, 2010 — seven austral summers of drilling, a decade after the collaboration submitted its proposal. The finished instrument holds 5,160 digital optical modules, each a ten-inch photomultiplier tube with its own electronics, distributed between 1,450 and 2,450 metres deep across a full cubic kilometre of glacier. Construction cost $279 million, of which the NSF provided around $242 million.
 
 Every one of those 5,160 sensors is now frozen into place forever, in a part of the world where the construction season is a few weeks long and the nearest hardware store is on another continent.
+
+[Watch: the hot-water drill, the firn layer and the sensor strings going into the ice](https://www.youtube.com/watch?v=ENNIgli_k8o)
+
+*(Third-party footage — IceCube has not published an official construction film.)*
 
 ## The thought was the contribution
 
