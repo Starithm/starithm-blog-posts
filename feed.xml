@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[A spatially resolved view of Fast Radio Burst host metallicities with Integral-field Spectroscopy]]></title>
+      <link>https://starithm.ai/blog/posts/a-spatially-resolved-view-of-fast-radio-burst-host-metallici-2610.07325</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/a-spatially-resolved-view-of-fast-radio-burst-host-metallici-2610.07325</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Fast Radio Bursts remain among the most enigmatic transients in modern astronomy, and understanding their origins requires looking beyond the galaxies...]]></description>
+      <category><![CDATA[Fast Radio Bursts]]></category>
+      <source url="https://arxiv.org/abs/2610.07325v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[SVOM detects long-duration GRB 260909A with multi-wavelength follow-up]]></title>
       <link>https://starithm.ai/blog/posts/event-sb26090910</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-sb26090910</guid>
@@ -449,15 +458,6 @@
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794892945</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On March 11, 2026, at 03:35 UTC, the Fermi Gamma-ray Burst Monitor detected a sudden, brilliant flash of gamma rays from the distant cosmos—and Starithm captured every second of it.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
-    </item>
-    <item>
-      <title><![CDATA[Fermi detects GRB 260208D with a calculated location and significant gamma-ray intensity.]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-792279770</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-792279770</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On February 8, 2026, at 16:12 UTC, NASA's Fermi satellite caught something remarkable: a powerful gamma-ray burst flooding across the southern celestial hemisphere.]]></description>
       <category><![CDATA[GRB]]></category>
       
     </item>
