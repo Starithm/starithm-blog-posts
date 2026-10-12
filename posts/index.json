@@ -11,6 +11,18 @@
     "slug": "a-spatially-resolved-view-of-fast-radio-burst-host-metallici-2610.07325"
   },
   {
+    "title": "Einstein Probe detects bright X-ray transient with multi-wavelength counterpart at z=0.089",
+    "date": "2026-10-12",
+    "category": "GRB",
+    "excerpt": "On August 6, 2026, Starithm's monitoring systems caught something extraordinary unfolding across the electromagnetic spectrum.",
+    "event_id": "01709277716",
+    "significance": "High",
+    "notice_count": "1",
+    "circular_count": "17",
+    "read_time": "3 min read",
+    "slug": "event-01709277716"
+  },
+  {
     "title": "SVOM detects long-duration GRB 260909A with multi-wavelength follow-up",
     "date": "2026-10-08",
     "category": "GRB",
@@ -988,7 +1000,7 @@
     "event_id": "GBM_794575684",
     "significance": "High",
     "notice_count": "5",
-    "circular_count": "4",
+    "circular_count": "5",
     "read_time": "3 min read",
     "slug": "event-gbm-794575684"
   },

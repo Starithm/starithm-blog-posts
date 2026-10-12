@@ -105,8 +105,8 @@
     "GBM_794575684": {
       "slug": "event-gbm-794575684",
       "noticeCount": 5,
-      "circularCount": 4,
-      "lastUpdated": "2026-04-10"
+      "circularCount": 5,
+      "lastUpdated": "2026-10-12"
     },
     "GBM_795142735": {
       "slug": "event-gbm-795142735",
@@ -329,6 +329,12 @@
       "noticeCount": 2,
       "circularCount": 17,
       "lastUpdated": "2026-10-08"
+    },
+    "01709277716": {
+      "slug": "event-01709277716",
+      "noticeCount": 1,
+      "circularCount": 17,
+      "lastUpdated": "2026-10-12"
     }
   }
 }
