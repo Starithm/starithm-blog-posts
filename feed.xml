@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[mm-jets in the multi-messenger era]]></title>
+      <link>https://starithm.ai/blog/posts/mm-jets-in-the-multi-messenger-era-2610.20741</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/mm-jets-in-the-multi-messenger-era-2610.20741</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Jets are among the most energetic and enigmatic phenomena in the universe, yet fundamental questions about how they form, accelerate, and dissipate energy remain unresolved.]]></description>
+      <category><![CDATA[GRB]]></category>
+      <source url="https://arxiv.org/abs/2610.20741v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[A spatially resolved view of Fast Radio Burst host metallicities with Integral-field Spectroscopy]]></title>
       <link>https://starithm.ai/blog/posts/a-spatially-resolved-view-of-fast-radio-burst-host-metallici-2610.07325</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/a-spatially-resolved-view-of-fast-radio-burst-host-metallici-2610.07325</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[On February 16, 2026, at **12:12:01.40 UTC**, Starithm's monitoring systems detected an alert from NASA's Fermi Gamma-ray Burst Monitor—a distant gamma-ray burst (GRB) flashing across the cosmos.]]></description>
       <category><![CDATA[GRB]]></category>
       
-    </item>
-    <item>
-      <title><![CDATA[Gravitational Wave Propagation through Viscous Matter]]></title>
-      <link>https://starithm.ai/blog/posts/gravitational-wave-propagation-through-viscous-matter-2605.14956</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/gravitational-wave-propagation-through-viscous-matter-2605.14956</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Gravitational waves have opened a new window on the universe's most violent events, but our understanding of how these ripples in spacetime interact with matter remains incomplete.]]></description>
-      <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2605.14956v1">arXiv</source>
     </item>
   </channel>
 </rss>
