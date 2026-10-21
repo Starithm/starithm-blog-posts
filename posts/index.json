@@ -1,5 +1,17 @@
 [
   {
+    "title": "GRB 261011A: Long-duration gamma-ray burst at z=2.407 with bright optical afterglow",
+    "date": "2026-10-21",
+    "category": "GRB",
+    "excerpt": "On October 11, 2026, at 13:49:04 UTC, the cosmos delivered a spectacular reminder of its violent extremes.",
+    "event_id": "sb26101102",
+    "significance": "High",
+    "notice_count": "3",
+    "circular_count": "28",
+    "read_time": "3 min read",
+    "slug": "event-sb26101102"
+  },
+  {
     "title": "mm-jets in the multi-messenger era",
     "date": "2026-10-21",
     "category": "GRB",
