@@ -1,5 +1,13 @@
 [
   {
+    "title": "SPINE: teaching a machine to read the tracks of ghost particles",
+    "date": "2026-10-28",
+    "category": "Neutrinos",
+    "excerpt": "A neutrino detector does not see a neutrino. It sees a tangle of tracks left by the particles a neutrino knocked loose, mixed with cosmic rays and other noise. SLAC's SPINE software reads that tangle in stages and shows its work, and in ICARUS's first physics result it recovered roughly 60% more usable neutrino interactions than the conventional chain.",
+    "read_time": "8 min read",
+    "slug": "spine-reading-the-tracks-of-ghost-particles"
+  },
+  {
     "title": "GRB 261011A: Long-duration gamma-ray burst at z=2.407 with bright optical afterglow",
     "date": "2026-10-21",
     "category": "GRB",
