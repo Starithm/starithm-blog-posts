@@ -1,5 +1,14 @@
 [
   {
+    "title": "Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars",
+    "date": "2026-10-29",
+    "category": "Platform",
+    "excerpt": "Ask Cosmos answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.",
+    "read_time": "5 min read",
+    "slug": "ask-cosmos",
+    "authors": "Starithm Team"
+  },
+  {
     "title": "SPINE: teaching a machine to read the tracks of ghost particles",
     "date": "2026-10-28",
     "category": "Neutrinos",

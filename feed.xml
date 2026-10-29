@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars]]></title>
+      <link>https://starithm.ai/blog/posts/ask-cosmos</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/ask-cosmos</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Ask Cosmos answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.]]></description>
+      <category><![CDATA[Platform]]></category>
+      
+    </item>
+    <item>
       <title><![CDATA[SPINE: teaching a machine to read the tracks of ghost particles]]></title>
       <link>https://starithm.ai/blog/posts/spine-reading-the-tracks-of-ghost-particles</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/spine-reading-the-tracks-of-ghost-particles</guid>
