@@ -12,11 +12,11 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
-      <title><![CDATA[Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars]]></title>
+      <title><![CDATA[Ask Evren: ask the GCN record a question, get an answer cited to the circulars]]></title>
       <link>https://starithm.ai/blog/posts/ask-cosmos</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/ask-cosmos</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Ask Cosmos answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.]]></description>
+      <description><![CDATA[Ask Evren answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.]]></description>
       <category><![CDATA[Platform]]></category>
       
     </item>
@@ -458,15 +458,6 @@
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-794346064</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[On the evening of March 4, 2026, the Fermi Gamma-ray Burst Monitor detected a sudden surge of high-energy photons from the northern celestial hemisphere.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
-    </item>
-    <item>
-      <title><![CDATA[Stellar flare detected from LP 435-538 associated with EP-WXT trigger 01709258652]]></title>
-      <link>https://starithm.ai/blog/posts/event-01709258652</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-01709258652</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On February 26, 2026, the Einstein Probe's Wide-field X-ray Telescope (EP-WXT) detected an unexpected burst of X-ray radiation from a seemingly ordinary star in the northern sky.]]></description>
       <category><![CDATA[GRB]]></category>
       
     </item>
