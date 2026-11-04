@@ -1,18 +1,20 @@
 ---
-title: "Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars"
+title: "Ask Evren: ask the GCN record a question, get an answer cited to the circulars"
 date: "2026-10-29"
 category: "Platform"
-excerpt: "Ask Cosmos answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from."
+excerpt: "Ask Evren answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from."
 slug: "ask-cosmos"
 read_time: "5 min read"
 authors: "Starithm Team"
 ---
 
-# Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars
+# Ask Evren: ask the GCN record a question, get an answer cited to the circulars
+
+*Ask Evren was called Ask Cosmos when this post was first published. Only the name has changed, and existing links still work.*
 
 Since 1997 the GCN Circulars have been where the transient community reports what it saw: the first localisation of a gamma-ray burst, the redshift from a spectrograph that night, the upper limit from a telescope that found nothing, and the retraction when a gravitational-wave candidate turns out to be a glitch. There are about 44,600 of them. They are public and searchable by event name, but answering an actual question, such as "what redshift did X-shooter measure for GRB 221009A?", still means opening circulars one by one and reading.
 
-Ask Cosmos is a search page on Starithm that does that reading for you. You type a question in plain English, and it answers from the circulars, with every sentence linked to the circular it came from.
+Ask Evren is a search page on Starithm that does that reading for you. You type a question in plain English, and it answers from the circulars, with every sentence linked to the circular it came from.
 
 **Try it:** [starithm.ai/novatrace/search](https://starithm.ai/novatrace/search)
 
@@ -40,7 +42,7 @@ Each link runs the question live.
 
 Next to the answer you see the sources (open any circular in place), the events involved, and, for event questions, a fact sheet with the event's position, time and instruments.
 
-If a question is outside the circulars' domain, Ask Cosmos says so instead of guessing.
+If a question is outside the circulars' domain, Ask Evren says so instead of guessing.
 
 ## What it is not
 
@@ -56,4 +58,4 @@ Your first question needs no account. After that, sign in (free) to keep asking,
 
 ## For researchers
 
-If you work on transients and Ask Cosmos gets something wrong, or misses a circular you know exists, we want to hear about it: press the thumbs-down under the answer, and we will look at it. It is early, and the questions people actually ask are what will make it better.
+If you work on transients and Ask Evren gets something wrong, or misses a circular you know exists, we want to hear about it: press the thumbs-down under the answer, and we will look at it. It is early, and the questions people actually ask are what will make it better.

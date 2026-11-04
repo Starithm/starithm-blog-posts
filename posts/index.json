@@ -1,11 +1,11 @@
 [
   {
-    "title": "Ask Cosmos: ask the GCN record a question, get an answer cited to the circulars",
+    "title": "Ask Evren: ask the GCN record a question, get an answer cited to the circulars",
     "date": "2026-10-29",
     "category": "Platform",
-    "excerpt": "Ask Cosmos answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.",
-    "read_time": "5 min read",
+    "excerpt": "Ask Evren answers questions about gamma-ray bursts, gravitational-wave candidates, neutrino alerts and X-ray transients directly from GCN Circulars (1997 to today), recent ATels and GCN notices. Every sentence in the answer links to the circular it came from.",
     "slug": "ask-cosmos",
+    "read_time": "5 min read",
     "authors": "Starithm Team"
   },
   {
