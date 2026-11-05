@@ -12,6 +12,17 @@
     "slug": "event-814930028"
   },
   {
+    "title": "MAGIKS: Multimodal Alignment and Gravitational-Wave-Conditioned Interaction for Kilonova Search",
+    "date": "2026-11-05",
+    "category": "Gravitational Waves",
+    "excerpt": "When gravitational waves from a neutron star merger arrive at Earth, astronomers have only hours to days to locate and observe the accompanying kilono...",
+    "arxiv_id": "2610.41119",
+    "arxiv_url": "https://arxiv.org/abs/2610.41119v1",
+    "authors": "Bingzhou Gao, Weichangfeng Guo, Jingqi Zhang et al.",
+    "read_time": "3 min read",
+    "slug": "magiks-multimodal-alignment-and-gravitational-wave-condition-2610.41119"
+  },
+  {
     "title": "Ask Evren: ask the GCN record a question, get an answer cited to the circulars",
     "date": "2026-10-29",
     "category": "Platform",
