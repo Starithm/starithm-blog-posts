@@ -1,5 +1,17 @@
 [
   {
+    "title": "Long GRB 261029A at z=3.27 with bright optical/infrared afterglow detected by Fermi, SVOM, and LAT",
+    "date": "2026-11-05",
+    "category": "X-ray Transients",
+    "excerpt": "On the morning of October 29, 2026, the universe delivered a spectacular reminder of its violent extremes.",
+    "event_id": "814930028",
+    "significance": "High",
+    "notice_count": "11",
+    "circular_count": "36",
+    "read_time": "3 min read",
+    "slug": "event-814930028"
+  },
+  {
     "title": "Ask Evren: ask the GCN record a question, get an answer cited to the circulars",
     "date": "2026-10-29",
     "category": "Platform",
@@ -1258,7 +1270,7 @@
     "event_id": "GBM_794811435",
     "significance": "High",
     "notice_count": "7",
-    "circular_count": "59",
+    "circular_count": "61",
     "read_time": "3 min read",
     "slug": "event-gbm-794811435"
   },
