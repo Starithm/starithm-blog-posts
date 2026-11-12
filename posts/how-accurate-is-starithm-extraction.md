@@ -8,8 +8,6 @@ read_time: "6 min read"
 authors: "Starithm Team"
 ---
 
-# How accurate is Starithm? Redshift, T90 and fluence checked against independent catalogues
-
 Starithm reads every GCN Circular it ingests and stores the values it reports: positions, redshifts, durations, fluences, magnitudes and upper limits, each linked to the circular it came from. A language model does the reading, and values are checked against the circular's own text before they are stored. That check tells us a value appears in the circular. It does not tell us whether we read the right value. For that we need an outside reference, so we compared what we extracted with catalogues we had no part in building.
 
 This post gives the numbers, how we measured them and the cases where we are wrong. As of 12 November 2026, Starithm has extracted 16,542 circulars; the rest of the 45,983 in the archive are still being processed.
