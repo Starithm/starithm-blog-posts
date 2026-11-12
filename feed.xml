@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[How accurate is Starithm? Redshift, T90 and fluence checked against independent catalogues]]></title>
+      <link>https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Starithm reads GCN Circulars and stores the values they report. We checked those values against independent catalogues: for 327 of 346 gamma-ray bursts (94.5%) at least one extracted redshift agrees with GRBweb to within Δz = 0.01, and Swift-BAT T90 and fluence agree with the Swift GRB table to within 10% for 92.2% and 94.5% of bursts. Here is how we measured it, and where we are still wrong.]]></description>
+      <category><![CDATA[Platform]]></category>
+      
+    </item>
+    <item>
       <title><![CDATA[Long GRB 261029A at z=3.27 with bright optical/infrared afterglow detected by Fermi, SVOM, and LAT]]></title>
       <link>https://starithm.ai/blog/posts/event-814930028</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-814930028</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[When a gamma-ray burst flares across the sky, astronomers face a critical question: could this transient be accompanied by gravitational waves?]]></description>
       <category><![CDATA[GRB]]></category>
       <source url="https://arxiv.org/abs/2605.21578v1">arXiv</source>
-    </item>
-    <item>
-      <title><![CDATA[GRB 01709258519 detected by Einstein Probe WXT likely originates from Mrk 421; no optical transient found.]]></title>
-      <link>https://starithm.ai/blog/posts/event-01709258519</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-01709258519</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On February 21, 2026, the Einstein Probe's Wide-field X-ray Telescope (WXT) caught something interesting—a gamma-ray burst that looked unremarkable at first glance, but turned out to point directly at one of the sky's most notorious active galaxies.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
     </item>
   </channel>
 </rss>
