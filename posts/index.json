@@ -1,5 +1,14 @@
 [
   {
+    "title": "How accurate is Starithm? Redshift, T90 and fluence checked against independent catalogues",
+    "date": "2026-11-12",
+    "category": "Platform",
+    "excerpt": "Starithm reads GCN Circulars and stores the values they report. We checked those values against independent catalogues: for 327 of 346 gamma-ray bursts (94.5%) at least one extracted redshift agrees with GRBweb to within Δz = 0.01, and Swift-BAT T90 and fluence agree with the Swift GRB table to within 10% for 92.2% and 94.5% of bursts. Here is how we measured it, and where we are still wrong.",
+    "slug": "how-accurate-is-starithm-extraction",
+    "read_time": "6 min read",
+    "authors": "Starithm Team"
+  },
+  {
     "title": "Long GRB 261029A at z=3.27 with bright optical/infrared afterglow detected by Fermi, SVOM, and LAT",
     "date": "2026-11-05",
     "category": "GRB",
