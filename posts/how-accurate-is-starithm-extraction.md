@@ -24,7 +24,7 @@ That is the per-burst measure. Two stricter ones are worth giving too:
 |---|---|
 | Per burst: at least one extracted value | **327 of 346 (94.5%)** |
 | Every circular that states a redshift, one by one | 783 of 897 (87.3%) |
-| The single redshift shown on the event page | 306 of 356 (86.0%) |
+| The single redshift shown on the event page | 306 of 356 (86.0%); **366 of 389 (94.1%) since 13 Nov**, see the update below |
 
 The gap between the first line and the other two is mostly not misreading. We read every disagreeing circular:
 
@@ -35,6 +35,8 @@ The gap between the first line and the other two is mostly not misreading. We re
 - **Genuine errors (3):** a value not in the text, or one from a different burst.
 
 So the extraction usually finds the right number. Where we go wrong is in **telling what kind of redshift it is**: the burst's own, a host candidate, a photometric estimate, a limit or a foreground absorber. When we choose one redshift to show for a burst, that choice is wrong about one time in seven. That is the number we are working on.
+
+**Update, 13 November 2026.** Each extracted redshift is now labelled with whose it is: the burst's own, an intervening absorber, a candidate host, or an unrelated galaxy. The value shown for a burst is never an absorber or an unrelated galaxy, and a candidate host only when nothing else is reported. Limits are now read from the circular's own wording and reported apart from measured values. Re-measured on the live event pages, the shown redshift agrees with GRBweb for **366 of 389 measured values (94.1%)**, up from 86.0%. A further 11 events show a limit, such as "z > 4.1"; 10 of these are consistent with GRBweb.
 
 ## T90 and fluence
 
