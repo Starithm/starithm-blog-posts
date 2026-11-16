@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Long GRB 260610B detected by Fermi GBM with optical counterpart and multi-wavelength follow-up]]></title>
+      <link>https://starithm.ai/blog/posts/event-802827979</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-802827979</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[When a gamma-ray burst lights up the sky for over a minute and then, days later, its afterglow starts *brightening* again, astronomers pay attention.]]></description>
+      <category><![CDATA[GRB]]></category>
+      
+    </item>
+    <item>
       <title><![CDATA[Suprathermal bulk viscosity in binary neutron star mergers]]></title>
       <link>https://starithm.ai/blog/posts/suprathermal-bulk-viscosity-in-binary-neutron-star-mergers-2611.18146</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/suprathermal-bulk-viscosity-in-binary-neutron-star-mergers-2611.18146</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[Core-collapse supernovae represent some of the most energetic and complex events in the universe, yet the precise mechanism driving their explosions remains incompletely understood.]]></description>
       <category><![CDATA[Gravitational Waves]]></category>
       <source url="https://arxiv.org/abs/2605.25879v2">arXiv</source>
-    </item>
-    <item>
-      <title><![CDATA[GRB detected by Fermi GBM with moderate significance]]></title>
-      <link>https://starithm.ai/blog/posts/event-gbm-793785979</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/event-gbm-793785979</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[On February 26, 2026, at **08:06:14.58 UTC**, the Fermi Gamma-ray Burst Monitor detected a flash of high-energy radiation from somewhere beyond our galaxy.]]></description>
-      <category><![CDATA[GRB]]></category>
-      
     </item>
   </channel>
 </rss>

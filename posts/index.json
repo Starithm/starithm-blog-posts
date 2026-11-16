@@ -1,5 +1,17 @@
 [
   {
+    "title": "Long GRB 260610B detected by Fermi GBM with optical counterpart and multi-wavelength follow-up",
+    "date": "2026-11-16",
+    "category": "GRB",
+    "excerpt": "When a gamma-ray burst lights up the sky for over a minute and then, days later, its afterglow starts *brightening* again, astronomers pay attention.",
+    "event_id": "802827979",
+    "significance": "High",
+    "notice_count": "7",
+    "circular_count": "29",
+    "read_time": "3 min read",
+    "slug": "event-802827979"
+  },
+  {
     "title": "Suprathermal bulk viscosity in binary neutron star mergers",
     "date": "2026-11-16",
     "category": "Gravitational Waves",
@@ -67,7 +79,7 @@
     "event_id": "sb26101102",
     "significance": "High",
     "notice_count": "3",
-    "circular_count": "28",
+    "circular_count": "31",
     "read_time": "3 min read",
     "slug": "event-sb26101102"
   },
