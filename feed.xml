@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[Suprathermal bulk viscosity in binary neutron star mergers]]></title>
+      <link>https://starithm.ai/blog/posts/suprathermal-bulk-viscosity-in-binary-neutron-star-mergers-2611.18146</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/suprathermal-bulk-viscosity-in-binary-neutron-star-mergers-2611.18146</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[When two neutron stars collide, the violent merger creates extreme conditions that push matter far beyond its normal equilibrium state.]]></description>
+      <category><![CDATA[Gravitational Waves]]></category>
+      <source url="https://arxiv.org/abs/2611.18146v1">arXiv</source>
+    </item>
+    <item>
       <title><![CDATA[How accurate is Starithm? Redshift, T90 and fluence checked against independent catalogues]]></title>
       <link>https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[On February 26, 2026, at **08:06:14.58 UTC**, the Fermi Gamma-ray Burst Monitor detected a flash of high-energy radiation from somewhere beyond our galaxy.]]></description>
       <category><![CDATA[GRB]]></category>
       
-    </item>
-    <item>
-      <title><![CDATA[Gravitational wave detectability range informed by external messengers]]></title>
-      <link>https://starithm.ai/blog/posts/gravitational-wave-detectability-range-informed-by-external-2605.21578</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/gravitational-wave-detectability-range-informed-by-external-2605.21578</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[When a gamma-ray burst flares across the sky, astronomers face a critical question: could this transient be accompanied by gravitational waves?]]></description>
-      <category><![CDATA[GRB]]></category>
-      <source url="https://arxiv.org/abs/2605.21578v1">arXiv</source>
     </item>
   </channel>
 </rss>
