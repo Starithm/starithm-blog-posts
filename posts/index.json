@@ -1,5 +1,14 @@
 [
   {
+    "title": "How accurate is Starithm? Part 2: like-for-like checks against Greiner's table and GRBweb",
+    "date": "2026-11-17",
+    "category": "Platform",
+    "excerpt": "We re-measured Starithm's extracted values comparing only like with like. The redshift shown for a burst agrees with Greiner's GRB table within the stated error or written precision for 418 of 456 bursts (91.7%). Within the same instrument and energy band, Swift-BAT T90 and fluence agree with GRBweb within 10% for 95.5% and 96.7% of bursts, and Fermi-GBM T90 for 90.2%.",
+    "slug": "how-accurate-is-starithm-extraction-part-2",
+    "read_time": "5 min read",
+    "authors": "Starithm Team"
+  },
+  {
     "title": "Long GRB 260610B detected by Fermi GBM with optical counterpart and multi-wavelength follow-up",
     "date": "2026-11-16",
     "category": "GRB",
