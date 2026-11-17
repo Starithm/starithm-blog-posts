@@ -12,6 +12,15 @@
       <link>https://starithm.ai/blog</link>
     </image>
     <item>
+      <title><![CDATA[How accurate is Starithm? Part 2: like-for-like checks against Greiner's table and GRBweb]]></title>
+      <link>https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction-part-2</link>
+      <guid isPermaLink="true">https://starithm.ai/blog/posts/how-accurate-is-starithm-extraction-part-2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[We re-measured Starithm's extracted values comparing only like with like. The redshift shown for a burst agrees with Greiner's GRB table within the stated error or written precision for 418 of 456 bursts (91.7%). Within the same instrument and energy band, Swift-BAT T90 and fluence agree with GRBweb within 10% for 95.5% and 96.7% of bursts, and Fermi-GBM T90 for 90.2%.]]></description>
+      <category><![CDATA[Platform]]></category>
+      
+    </item>
+    <item>
       <title><![CDATA[Long GRB 260610B detected by Fermi GBM with optical counterpart and multi-wavelength follow-up]]></title>
       <link>https://starithm.ai/blog/posts/event-802827979</link>
       <guid isPermaLink="true">https://starithm.ai/blog/posts/event-802827979</guid>
@@ -451,15 +460,6 @@
       <description><![CDATA[In December 2020, the magnetar SGR 1935+2154 produced a remarkable burst of radio emission—a fast radio burst (FRB) detected at gigahertz frequencies,...]]></description>
       <category><![CDATA[Fast Radio Bursts]]></category>
       <source url="https://arxiv.org/abs/2606.10189v1">arXiv</source>
-    </item>
-    <item>
-      <title><![CDATA[Core-collapse supernovae and supernova neutrinos]]></title>
-      <link>https://starithm.ai/blog/posts/core-collapse-supernovae-and-supernova-neutrinos-2605.25879</link>
-      <guid isPermaLink="true">https://starithm.ai/blog/posts/core-collapse-supernovae-and-supernova-neutrinos-2605.25879</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Core-collapse supernovae represent some of the most energetic and complex events in the universe, yet the precise mechanism driving their explosions remains incompletely understood.]]></description>
-      <category><![CDATA[Gravitational Waves]]></category>
-      <source url="https://arxiv.org/abs/2605.25879v2">arXiv</source>
     </item>
   </channel>
 </rss>
